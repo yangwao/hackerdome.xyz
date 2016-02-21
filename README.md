@@ -1,4 +1,4 @@
-# Hackerdome.xyz || #hackerdome
+# HackerDome.xyz || #hackerdome
 ![Geodesic dome](./assets/img/icon_11999.png)
 
 Hackerdome will be one of very first **true** [hackerhouse residency ](https://wiki.hackerspaces.org/Hackbase) [(coliving)](https://en.wikipedia.org/wiki/Coliving)
@@ -171,9 +171,9 @@ Founder of [Progressbar](https://progressbar.sk). It all started before summer 2
 
 ### Contact
 
-[Ask something about HackerDome](https://github.com/yangwao/hackerdome.xyz/issues/new)
-
-Keep in touch, yangwao at freenode or try catch me ybdaba at gmail dot com
+* [Ask me something about HackerDome](https://github.com/yangwao/hackerdome.xyz/issues/new) at Github
+* [join IRC #hackerdome @ Freenode](irc://chat.freenode.net/hackerdome) or [use webchat](http://webchat.freenode.net/?channels=%23hackerdome)
+* Keep in touch, yangwao at freenode or try catch me ybdaba at gmail dot com
 
 ### Some clickings
 * [Mobile hackbase Apollo NG](https://apollo.open-resource.org/)
