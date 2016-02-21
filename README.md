@@ -38,23 +38,28 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 * Sky walk (Stezka v oblacich) (~160mins car)
   * https://www.youtube.com/watch?v=oYMlsBFDKuk
   * https://www.facebook.com/stezkavoblacich
-  ![](./assets/img/Dolni_Morava_Stezka_v_oblacich_1.jpg)
+
+![](./assets/img/Dolni_Morava_Stezka_v_oblacich_1.jpg)
 
 * [Neusiedler See](https://www.google.com/maps/place/Lake+Neusiedl/@47.8033419,16.7010148,12z/data=!3m1!4b1!4m2!3m1!1s0x476c3ffe58617d7d:0xea246ea46ba19a1e) (~30mins car)
   * [Windsurfing / Kitesurfing Podersdorf Am See See](https://www.google.com/maps/place/7141+Podersdorf+am+See,+Austria/@47.8544268,16.8229922,15z/data=!3m1!4b1!4m2!3m1!1s0x476c6a3879b6aaeb:0xf86d1b10b6c12da7)
-  ![](./assets/img/Kitesurfen in Podersdorf am Neusiedlersee.jpg)
+
+![](./assets/img/Kitesurfen in Podersdorf am Neusiedlersee.jpg)
 
 * [Bikepark Koliba](http://bikeparkkoliba.sk/?lang=en) (~10min on bike)
   * [two trails](http://bikeparkkoliba.sk/wp-content/gallery/trat-rohatka/mapa-bikepark-koliba.jpg) (map)
   * w/ chair lift
-  ![](./assets/img/gap-rohatka.jpg)
+
+![](./assets/img/gap-rohatka.jpg)
 
 * [Devin Castle](https://www.google.sk/search?q=devin+castle) (~20min by car)
   * near is [Sandberg](https://sk.wikipedia.org/wiki/Sandberg)
-  ![](./assets/img/12770142264_f1d58e01bf_k.jpg)
+
+![](./assets/img/12770142264_f1d58e01bf_k.jpg)
 
   * near is "Weiterov Lom"
-  ![](./assets/img/21876762.jpg)
+
+![](./assets/img/21876762.jpg)
 
 * Urban Exploration
   * [Near Bratislava UE spots](https://picasaweb.google.com/102795408576830141009)
@@ -64,14 +69,14 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
     * https://www.youtube.com/watch?v=U-d6e4DiLaM
     * https://www.youtube.com/watch?v=5YjjKaXGfoI
 
-    ![Hospital Razsochy](./assets/img/razsochy.png)
+![Hospital Razsochy](./assets/img/razsochy.png)
 
   * Unfinished waterworks from 1970 over the Old Lamač at the place of former quarry (15mins walk)
     * http://mpba.sk/en/650
     * https://www.facebook.com/media/set/?set=a.1738304743069345.1073741837.1737418699824616&type=3
     * https://www.youtube.com/watch?v=VC34vPyRftc
 
-    ![Old waterworks Old Lamac](./assets/img/12010_1738305056402647_8482876081268208047_n.jpg)
+![Old waterworks Old Lamac](./assets/img/12010_1738305056402647_8482876081268208047_n.jpg)
 
   * Rocket military base built in 80ties of the 20th century. (~40mins bike)
     * Top of [Devínska Kobyla](https://en.wikipedia.org/wiki/Dev%C3%ADnska_Kobyla). Its peak elevation is 514 m AMSL
@@ -79,15 +84,31 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
     System was developed by company Lavočkin & Gruškin OKB and manufactered by  Fakel MKB.
     * 20 objects in area
 
-    ![](./assets/img/devinskakobyla4.jpg)
+![](./assets/img/devinskakobyla4.jpg)
 
 ### Local community groups
 
 * [Meetup groups in Bratislava](http://www.meetup.com/cities/sk/bratislava/)
-* Webelement
-* Rubyslava
-* Nodeschool/Node.js
-* IPFS meetup (soon:D)
+* Technology
+  * [Rubyslava](http://rubyslava.sk/)
+  * [Webelement](https://webelement.sk/)
+  * [Nodeschool Bratislava](https://github.com/nodeschool/bratislava)
+  * Node.js meetup
+  * IPFS meetup (soon:D)
+
+* Bike  
+  * [Mayor independent community working on development bike conditions - Cyklokoalicia](http://cyklokoalicia.sk/)
+  * [Critical Mass Bratislava](https://www.facebook.com/criticalmassba/)
+  * [White Bikes - community bike renting](http://whitebikes.info/)
+
+* Media/Art
+  * [A4 – SPACE FOR CONTEMPORARY CULTURE](http://www.a4.sk/)
+  * [FUGA](https://www.facebook.com/fuga.ba/)
+  * [Cvernovka](http://www.cvernovka.com/)
+
+* Fablabs
+  * [Fablab.sk](http://www.fablab.sk/en/)
+  * Lab - in old market hall (Q1 2016)
 
 ### Goodies
 
