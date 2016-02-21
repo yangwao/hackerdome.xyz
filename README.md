@@ -171,6 +171,7 @@ Keep in touch, yangwao at freenode or try catch me ybdaba at gmail dot com
 * https://nomadhouse.io/
 * http://www.thecaravanserai.co/preview
 * http://coconat-space.com/work/
+* http://www.shareable.net/blog/6-coliving-networks-reinventing-home
 
 ### Why Geodesic dome
 
@@ -186,7 +187,7 @@ Keep in touch, yangwao at freenode or try catch me ybdaba at gmail dot com
 ![](./assets/img/9165c68199c0d7e1cd235a71bca3e859.jpg)
 ![](./assets/img/24diagram.bmp)
 
-* [the largest indoor rainforest in the world (Project Eden)](https://www.edenproject.com/) 
+* [the largest indoor rainforest in the world (Project Eden)](https://www.edenproject.com/)
 ![](./assets/img/biomes_0.jpg)
 
 ### Crazy shit in end
