@@ -1,7 +1,7 @@
 # Hackerdome.xyz || #hackerdome
 ![Geodesic dome](./assets/img/icon_11999.png)
 
-Hackerdome will be one of very first **true** [hackerhouse residency (coliving)](https://wiki.hackerspaces.org/Hackbase)
+Hackerdome will be one of very first **true** [hackerhouse residency ](https://wiki.hackerspaces.org/Hackbase) [(coliving)](https://en.wikipedia.org/wiki/Coliving)
 
 [Located in Central Europe, Bratislava, Slovakia](https://www.google.com/maps?q=Central+Europe,+Bratislava,+Slovakia)
 
@@ -35,7 +35,7 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 * Local Bratislava *hidden* locations
   * http://mpba.sk/
 
-* Sky walk (Stezka v oblacich) (~120mins car)
+* Sky walk (Stezka v oblacich) (~160mins car)
   * https://www.youtube.com/watch?v=oYMlsBFDKuk
   * https://www.facebook.com/stezkavoblacich
   ![](./assets/img/Dolni_Morava_Stezka_v_oblacich_1.jpg)
@@ -49,19 +49,37 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
   * w/ chair lift
   ![](./assets/img/gap-rohatka.jpg)
 
-* Urban Exploration (~10mins walk)
-  * Razsochy (unfinished hospital from 80s)
+* [Devin Castle](https://www.google.sk/search?q=devin+castle) (~20min by car)
+  * near is [Sandberg](https://sk.wikipedia.org/wiki/Sandberg)
+  ![](./assets/img/12770142264_f1d58e01bf_k.jpg)
+
+  * near is "Weiterov Lom"
+  ![](./assets/img/21876762.jpg)
+
+* Urban Exploration
+  * [Near Bratislava UE spots](https://picasaweb.google.com/102795408576830141009)
+  * Razsochy (unfinished hospital from 80s) (~10mins walk)
     * https://www.youtube.com/watch?v=t_5yp0tkm-8 (Aerial)
     * https://www.youtube.com/watch?v=Kf5scmfHSvg
     * https://www.youtube.com/watch?v=U-d6e4DiLaM
     * https://www.youtube.com/watch?v=5YjjKaXGfoI
+
     ![Hospital Razsochy](./assets/img/razsochy.png)
 
   * Unfinished waterworks from 1970 over the Old Lamač at the place of former quarry (15mins walk)
     * http://mpba.sk/en/650
     * https://www.facebook.com/media/set/?set=a.1738304743069345.1073741837.1737418699824616&type=3
     * https://www.youtube.com/watch?v=VC34vPyRftc
+
     ![Old waterworks Old Lamac](./assets/img/12010_1738305056402647_8482876081268208047_n.jpg)
+
+  * Rocket military base built in 80ties of the 20th century. (~40mins bike)
+    * Top of [Devínska Kobyla](https://en.wikipedia.org/wiki/Dev%C3%ADnska_Kobyla). Its peak elevation is 514 m AMSL
+    * rocket system ground – air S 125 Neva, known as SA-3 GOA.
+    System was developed by company Lavočkin & Gruškin OKB and manufactered by  Fakel MKB.
+    * 20 objects in area
+
+    ![](./assets/img/devinskakobyla4.jpg)
 
 ### Local community groups
 
@@ -77,6 +95,11 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 * Gas station 24/7 (5min bike)
 * McDonalds 24/7 (5min bike/2min car)
 * Kaufland 10-22 (10min walk)
+
+### Equipment
+
+* Standing desk [Skarsta](http://www.ikea.com/us/en/catalog/products/S29084966/)
+* Lot of pallets (let's build something?!)
 
 ### City Transportation
 
@@ -127,6 +150,8 @@ Founder of [Progressbar](https://progressbar.sk). It all started before summer 2
 
 ### Contact
 
+[Ask something about HackerDome](https://github.com/yangwao/hackerdome.xyz/issues/new)
+
 Keep in touch, yangwao at freenode or try catch me ybdaba at gmail dot com
 
 ### Some clickings
@@ -141,6 +166,11 @@ Keep in touch, yangwao at freenode or try catch me ybdaba at gmail dot com
   * http://hillhacks.in/unconference
 * http://techsquat.com/ (in Czech Republic Brno & Prague)
 * https://wiki.techinc.nl/index.php/User:Becha/Lika#2016
+* http://opendoor.io/
+* https://www.wework.com/
+* https://nomadhouse.io/
+* http://www.thecaravanserai.co/preview
+* http://coconat-space.com/work/
 
 ### Why Geodesic dome
 
@@ -155,6 +185,9 @@ Keep in touch, yangwao at freenode or try catch me ybdaba at gmail dot com
 ![](./assets/img/gd15group_plans.jpg)![](./assets/img/CONBAM_BambooDomes_01.gif)
 ![](./assets/img/9165c68199c0d7e1cd235a71bca3e859.jpg)
 ![](./assets/img/24diagram.bmp)
+
+* [the largest indoor rainforest in the world (Project Eden)](https://www.edenproject.com/) 
+![](./assets/img/biomes_0.jpg)
 
 ### Crazy shit in end
 
