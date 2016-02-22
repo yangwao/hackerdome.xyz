@@ -107,23 +107,6 @@
 .markdown-preview table tr:nth-child(2n) { background-color: rgb(255, 255, 255); }
 .markdown-preview table th, .markdown-preview table td { border-color: rgb(255, 255, 255); }
 .markdown-preview table th { background-color: rgb(255, 255, 255); }
-html.blue .markdown-preview a { color: rgb(33, 150, 243); }
-html.cyan .markdown-preview a { color: rgb(0, 188, 212); }
-html.green .markdown-preview a { color: rgb(139, 195, 74); }
-html.pink .markdown-preview a { color: rgb(233, 30, 99); }
-html.purple .markdown-preview a { color: rgb(130, 89, 203); }
-html.red .markdown-preview a { color: rgb(244, 67, 54); }
-html.teal .markdown-preview a { color: rgb(77, 182, 172); }
-html.white .markdown-preview a { color: rgb(196, 196, 196); }
-html.yellow .markdown-preview a { color: rgb(255, 235, 59); }
-html.orange .markdown-preview a { color: rgb(255, 152, 0); }
-.markdown-themeable-pdf-page-break {
-  border-top: 2px dotted #0098ff;
-}
-.markdown-themeable-pdf-page-break span {
-  opacity: .35;
-}
-
 .bracket-matcher .region {
   border-bottom: 1px dotted lime;
   position: absolute;
@@ -131,6 +114,13 @@ html.orange .markdown-preview a { color: rgb(255, 152, 0); }
 
 .spell-check-misspelling .region {
   border-bottom: 2px dotted rgba(255, 51, 51, 0.75);
+}
+
+.markdown-themeable-pdf-page-break {
+  border-top: 2px dotted #0098ff;
+}
+.markdown-themeable-pdf-page-break span {
+  opacity: .35;
 }
 
 pre.editor-colors,
@@ -589,6 +579,10 @@ pre.editor-colors.is-focused .selection .region:after,
 .meta .string.quoted {
   color: #91b859;
 }
+.meta.array.json .string.quoted,
+.meta.array.json .string.quoted > * {
+  color: #80CBC4;
+}
 .meta .punctuation.separator.key-value + .string.quoted {
   color: #80CBC4;
 }
@@ -643,7 +637,7 @@ pre.editor-colors.is-focused .selection .region:after,
 <ul>
 <li><p>Local Bratislava <em>hidden</em> locations</p>
 <ul>
-<li><a href="http://mpba.sk/">http://mpba.sk/</a></li>
+<li><a href="http://mpba.sk/en/">M_P_BA</a></li>
 </ul>
 </li>
 <li><p>Sky walk (Stezka v oblacich) (~160mins car)</p>
@@ -680,6 +674,10 @@ pre.editor-colors.is-focused .selection .region:after,
 <li>near is &quot;Weiterov Lom&quot;</li>
 </ul>
 <p><img src="assets/img/21876762.jpg" alt=""></p>
+<ul>
+<li><a href="http://www.hvezdarna.cz/en">Brno Observatory and Planetarium</a> (1 hour drive car/train)</li>
+</ul>
+<p><img src="assets/img/Hvezdarna_a_planetarium_Brno_016.jpg" alt=""></p>
 <ul>
 <li>Urban Exploration<ul>
 <li><a href="https://picasaweb.google.com/102795408576830141009">Near Bratislava UE spots</a></li>
@@ -732,17 +730,17 @@ System was developed by company Lavočkin &amp; Gruškin OKB and manufactered by
 <li><a href="http://whitebikes.info/">White Bikes - community bike renting</a></li>
 </ul>
 </li>
+<li><p>Fablabs</p>
+<ul>
+<li><a href="http://www.fablab.sk/en/">Fablab.sk</a></li>
+<li>Lab - in old market hall, downtown Bratislava (Q1 2016)</li>
+</ul>
+</li>
 <li><p>Media/Art</p>
 <ul>
 <li><a href="http://www.a4.sk/">A4 – SPACE FOR CONTEMPORARY CULTURE</a></li>
 <li><a href="https://www.facebook.com/fuga.ba/">FUGA</a></li>
 <li><a href="http://www.cvernovka.com/">Cvernovka</a></li>
-</ul>
-</li>
-<li><p>Fablabs</p>
-<ul>
-<li><a href="http://www.fablab.sk/en/">Fablab.sk</a></li>
-<li>Lab - in old market hall (Q1 2016)</li>
 </ul>
 </li>
 </ul>
@@ -751,7 +749,7 @@ System was developed by company Lavočkin &amp; Gruškin OKB and manufactered by
 <li>Tesco 24/7 (5min bike)</li>
 <li>Gas station 24/7 (5min bike)</li>
 <li>McDonalds 24/7 (5min bike/2min car)</li>
-<li>Kaufland 10-22 (10min walk)</li>
+<li>Kaufland 7-22 (10min walk)</li>
 </ul>
 <h3 id="equipment">Equipment</h3>
 <ul>
@@ -762,6 +760,7 @@ System was developed by company Lavočkin &amp; Gruškin OKB and manufactered by
 <ul>
 <li>We got Uber &amp; Liftago (yay!, costs like 3-7€ to Downtown)</li>
 <li>By bus, you are in Downtown in 12 mins, costs like 0.70€<ul>
+<li><a href="http://imhd.sk/ba/schedule-timetable/stop/2415/Pod-Zecakom">Bus stop zone in front of HackerDome</a></li>
 <li><a href="http://imhd.sk/ba/schedule-timetable/stop/2771/Huscavova">Bus stop Húščavova</a> (7min walk)</li>
 <li><a href="http://imhd.sk/ba/schedule-timetable/stop/2400/Pridanky">Bus stop Pridánky</a> (5min walk)</li>
 <li>Night buses (every hour)<ul>
@@ -771,7 +770,7 @@ System was developed by company Lavočkin &amp; Gruškin OKB and manufactered by
 </li>
 </ul>
 </li>
-<li>By bike you are in Downtown in 20mins</li>
+<li><a href="http://www.opencyclemap.org/?zoom=11&amp;lat=48.17073&amp;lon=17.12116&amp;layers=B0000">By bike you are in Downtown in 20mins</a></li>
 </ul>
 <h3 id="cities-near">Cities near</h3>
 <ul>
@@ -818,23 +817,31 @@ System was developed by company Lavočkin &amp; Gruškin OKB and manufactered by
 <ul>
 <li><a href="https://github.com/yangwao/hackerdome.xyz/issues/new">Ask me something about HackerDome</a> at Github</li>
 <li><a href="irc://chat.freenode.net/hackerdome">join IRC #hackerdome @ Freenode</a> or <a href="http://webchat.freenode.net/?channels=%23hackerdome">use webchat</a></li>
-<li>Keep in touch, yangwao at freenode or try catch me ybdaba at gmail dot com</li>
+<li>Keep in touch, yangwao at freenode or try catch me ybdaba at gmail dat com</li>
 </ul>
 <h3 id="some-clickings">Some clickings</h3>
 <ul>
 <li><a href="https://apollo.open-resource.org/">Mobile hackbase Apollo NG</a></li>
 <li><a href="http://hackercouch.com/">http://hackercouch.com/</a></li>
+<li><a href="https://wiki.hackerspaces.org/">https://wiki.hackerspaces.org/</a><ul>
+<li><a href="https://wiki.hackerspaces.org/Residencies">https://wiki.hackerspaces.org/Residencies</a></li>
 <li><a href="https://wiki.hackerspaces.org/Exchanges">https://wiki.hackerspaces.org/Exchanges</a></li>
 <li><a href="https://wiki.hackerspaces.org/Hackbase">https://wiki.hackerspaces.org/Hackbase</a></li>
-<li><a href="http://totalism.org/alike">http://totalism.org/alike</a></li>
-<li><a href="http://totalism.org/maps">http://totalism.org/maps</a></li>
 <li><a href="https://wiki.hackerspaces.org/infinity">https://wiki.hackerspaces.org/infinity</a><ul>
 <li><a href="http://hillhacks.in/index">http://hillhacks.in/index</a></li>
 <li><a href="http://hillhacks.in/unconference">http://hillhacks.in/unconference</a></li>
 </ul>
 </li>
-<li><a href="http://techsquat.com/">http://techsquat.com/</a> (in Czech Republic Brno &amp; Prague)</li>
+</ul>
+</li>
+<li><a href="http://totalism.org">http://totalism.org</a><ul>
+<li><a href="http://totalism.org/calendar">http://totalism.org/calendar</a></li>
+<li><a href="http://totalism.org/alike">http://totalism.org/alike</a></li>
+<li><a href="http://totalism.org/maps">http://totalism.org/maps</a></li>
+</ul>
+</li>
 <li><a href="https://wiki.techinc.nl/index.php/User:Becha/Lika#2016">https://wiki.techinc.nl/index.php/User:Becha/Lika#2016</a></li>
+<li><a href="http://techsquat.com/">http://techsquat.com/</a> (in Czech Republic Brno &amp; Prague)</li>
 <li><a href="http://opendoor.io/">http://opendoor.io/</a></li>
 <li><a href="https://www.wework.com/">https://www.wework.com/</a></li>
 <li><a href="https://nomadhouse.io/">https://nomadhouse.io/</a></li>

@@ -8,7 +8,6 @@ Hackerdome will be one of very first **true** [hackerhouse residency ](https://w
 Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 * also friends at [Base48](http://base48.cz) & [ParalelniPolis](https://www.paralelnipolis.cz/en/)
 
-
 *Now WorkInProgress, opening 2016/2017, but contact me for beta-run*
 
 ### Features
@@ -33,7 +32,7 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 
 ### Trips locations near hackerdome
 * Local Bratislava *hidden* locations
-  * http://mpba.sk/
+  * [M_P_BA](http://mpba.sk/en/)
 
 * Sky walk (Stezka v oblacich) (~160mins car)
   * https://www.youtube.com/watch?v=oYMlsBFDKuk
@@ -60,6 +59,10 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
   * near is "Weiterov Lom"
 
 ![](./assets/img/21876762.jpg)
+
+* [Brno Observatory and Planetarium](http://www.hvezdarna.cz/en) (1 hour drive car/train)
+
+![](./assets/img/Hvezdarna_a_planetarium_Brno_016.jpg)
 
 * Urban Exploration
   * [Near Bratislava UE spots](https://picasaweb.google.com/102795408576830141009)
@@ -101,21 +104,21 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
   * [Critical Mass Bratislava](https://www.facebook.com/criticalmassba/)
   * [White Bikes - community bike renting](http://whitebikes.info/)
 
+* Fablabs
+  * [Fablab.sk](http://www.fablab.sk/en/)
+  * Lab - in old market hall, downtown Bratislava (Q1 2016)
+
 * Media/Art
   * [A4 – SPACE FOR CONTEMPORARY CULTURE](http://www.a4.sk/)
   * [FUGA](https://www.facebook.com/fuga.ba/)
   * [Cvernovka](http://www.cvernovka.com/)
-
-* Fablabs
-  * [Fablab.sk](http://www.fablab.sk/en/)
-  * Lab - in old market hall (Q1 2016)
 
 ### Goodies
 
 * Tesco 24/7 (5min bike)
 * Gas station 24/7 (5min bike)
 * McDonalds 24/7 (5min bike/2min car)
-* Kaufland 10-22 (10min walk)
+* Kaufland 7-22 (10min walk)
 
 ### Equipment
 
@@ -126,12 +129,13 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 
 * We got Uber & Liftago (yay!, costs like 3-7€ to Downtown)
 * By bus, you are in Downtown in 12 mins, costs like 0.70€
+  * [Bus stop zone in front of HackerDome](http://imhd.sk/ba/schedule-timetable/stop/2415/Pod-Zecakom)
   * [Bus stop Húščavova](http://imhd.sk/ba/schedule-timetable/stop/2771/Huscavova) (7min walk)
   * [Bus stop Pridánky](http://imhd.sk/ba/schedule-timetable/stop/2400/Pridanky) (5min walk)
   * Night buses (every hour)
     * [N21 from Central Railway Station](http://imhd.sk/ba/schedule-timetable/linka/N21/smer/Devinska-Nova-Ves/zastavka/Hlavna-stanica-Central-Railway-Station/629145695259)
     * [N37 from Central Railway Station](http://imhd.sk/ba/schedule-timetable/linka/N37/smer/Zahorska-Bystrica/zastavka/Hlavna-stanica-Central-Railway-Station/419430495249)
-* By bike you are in Downtown in 20mins
+* [By bike you are in Downtown in 20mins](http://www.opencyclemap.org/?zoom=11&lat=48.17073&lon=17.12116&layers=B0000)
 
 ### Cities near
 
@@ -141,6 +145,7 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 * Prague, Czech Republic (3 hours by car/train)
 
 ### Options to stay
+
 * Micro-term
   * staying for like hackercouch, 1-3 days
   * just support us buying club-mate at place, you are welcome!
@@ -174,20 +179,25 @@ Founder of [Progressbar](https://progressbar.sk). It all started before summer 2
 
 * [Ask me something about HackerDome](https://github.com/yangwao/hackerdome.xyz/issues/new) at Github
 * [join IRC #hackerdome @ Freenode](irc://chat.freenode.net/hackerdome) or [use webchat](http://webchat.freenode.net/?channels=%23hackerdome)
-* Keep in touch, yangwao at freenode or try catch me ybdaba at gmail dot com
+* Keep in touch, yangwao at freenode or try catch me ybdaba at gmail dat com
 
 ### Some clickings
+
 * [Mobile hackbase Apollo NG](https://apollo.open-resource.org/)
 * http://hackercouch.com/
-* https://wiki.hackerspaces.org/Exchanges
-* https://wiki.hackerspaces.org/Hackbase
-* http://totalism.org/alike
-* http://totalism.org/maps
-* https://wiki.hackerspaces.org/infinity
-  * http://hillhacks.in/index
-  * http://hillhacks.in/unconference
-* http://techsquat.com/ (in Czech Republic Brno & Prague)
+* https://wiki.hackerspaces.org/
+  * https://wiki.hackerspaces.org/Residencies
+  * https://wiki.hackerspaces.org/Exchanges
+  * https://wiki.hackerspaces.org/Hackbase
+  * https://wiki.hackerspaces.org/infinity
+    * http://hillhacks.in/index
+    * http://hillhacks.in/unconference
+* http://totalism.org
+  * http://totalism.org/calendar
+  * http://totalism.org/alike
+  * http://totalism.org/maps
 * https://wiki.techinc.nl/index.php/User:Becha/Lika#2016
+* http://techsquat.com/ (in Czech Republic Brno & Prague)
 * http://opendoor.io/
 * https://www.wework.com/
 * https://nomadhouse.io/
