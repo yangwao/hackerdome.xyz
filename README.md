@@ -220,3 +220,5 @@ Founder of [Progressbar](https://progressbar.sk). It all started before summer 2
 ![](./assets/img/eca19124bdc0a3dfaafb95ff63abdf11.jpg)
 ![](./assets/img/ac6d9656c8208ca1179203ca8b912b85.jpg)
 ![](./assets/img/1259451427625907117.gif)
+
+[If IPFS has some troubles, here is latest revision](https://github.com/yangwao/hackerdome.xyz/blob/master/README.md)
