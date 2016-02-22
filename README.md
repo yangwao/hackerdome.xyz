@@ -94,7 +94,7 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
   * [Webelement](https://webelement.sk/)
   * [Nodeschool Bratislava](https://github.com/nodeschool/bratislava)
   * Node.js meetup
-  * IPFS meetup (soon:D)
+  * [IPFS meetup](http://www.meetup.com/Bratislava-IPFS-Meetup/)
 
 * Bike  
   * [Mayor independent community working on development bike conditions - Cyklokoalicia](http://cyklokoalicia.sk/)
@@ -164,9 +164,10 @@ We accept payments in Bitcoin, Ethereum and also in analog money.
 
 Founder of [Progressbar](https://progressbar.sk). It all started before summer 2010 :)
 
-* [Matej 'wao' Nemček](https://www.facebook.com/matej.satoshi)
+* [Facebook Matej 'wao' Nemček](https://www.facebook.com/matej.satoshi)
 * [Twitter @yangwao](https://twitter.com/YangWao)
 * [Instagram @yangwao](https://www.instagram.com/yangwao/)
+* [Reddit jangwao](https://www.reddit.com/user/jangwao/)
 * [Linkedin](https://www.linkedin.com/in/mnemcek)
 
 ### Contact
@@ -209,11 +210,13 @@ Founder of [Progressbar](https://progressbar.sk). It all started before summer 2
 ![](./assets/img/24diagram.bmp)
 
 * [the largest indoor rainforest in the world (Project Eden)](https://www.edenproject.com/)
+
 ![](./assets/img/biomes_0.jpg)
 
 ### Crazy shit in end
 
 [BuckMinster Fuller Meets Transformers](http://architizer.com/blog/buckminster-fuller-robot/)
+
 ![](./assets/img/eca19124bdc0a3dfaafb95ff63abdf11.jpg)
 ![](./assets/img/ac6d9656c8208ca1179203ca8b912b85.jpg)
 ![](./assets/img/1259451427625907117.gif)
