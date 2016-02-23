@@ -104,6 +104,17 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
   * [Critical Mass Bratislava](https://www.facebook.com/criticalmassba/)
   * [White Bikes - community bike renting](http://whitebikes.info/)
 
+* Hackerspaces around
+  * [Progressbar](http://progressbar.sk) @ Bratislava (local)
+  * [Metalab](https://metalab.at/) @ Vienna
+  * [Base48](http://base48.cz/) @ Brno
+  * [ParalelniPolis](https://www.paralelnipolis.cz/en/) @ Prague
+  * [Brmlab](http://brmlab.cz/) @ Prague
+  * [Labka](https://labka.cz) @ Ostrava
+  * [V01D](http://www.v01d.sk) @ Kosice
+  * [H.A.C.K.](https://hsbp.org) @ Budapest
+  * [List of Active hackerspaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces)
+
 * Fablabs
   * [Fablab.sk](http://www.fablab.sk/en/)
   * Lab - in old market hall, downtown Bratislava (Q1 2016)
