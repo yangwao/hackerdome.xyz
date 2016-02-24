@@ -1,0 +1,23 @@
+baseurl = ""
+LanguageCode= "en-US"
+title = "hackerdome.xyz"
+paginate = 5
+Copyright = "All rights reserved - 2016"
+RelativeURLs = true
+# canonifyurls = true
+
+[params]
+  description = "hackbase in Bratislava, Slovakia"
+  cover = "img/icon_11999.png"
+  author = "yangwao"
+  authorlocation = "Bratislava"
+  authorwebsite = "https://github.com/yangwao"
+  bio= "Founder of Progressbar"
+  # logo = "images/phoenix_world.png"
+  # googleAnalyticsUserID = "UA-64985747-4"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = "http://feedly.com/i/subscription/feed/https://syui.github.io/atom.xml"
+  githubName = "yangwao"
+  twitterName = "yangwao"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = true

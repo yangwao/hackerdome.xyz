@@ -1,0 +1,4 @@
+baseurl = "http://hackerdome.xyz/"
+languageCode = "en-us"
+title = "hackerdome.xyz"
+RelativeURLs = true

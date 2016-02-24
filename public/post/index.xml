@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on hackerdome.xyz</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on hackerdome.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>All rights reserved - 2016</copyright>
+    <lastBuildDate>Wed, 24 Feb 2016 01:18:32 +0100</lastBuildDate>
+    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What is HackerDome?</title>
+      <link>/post/about-hackerdome/</link>
+      <pubDate>Wed, 24 Feb 2016 01:18:32 +0100</pubDate>
+      
+      <guid>/post/about-hackerdome/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;img/icon_11999.png&#34; alt=&#34;Geodesic dome&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hackerdome will be one of very first &lt;strong&gt;true&lt;/strong&gt; &lt;a href=&#34;https://wiki.hackerspaces.org/Hackbase&#34;&gt;hackerhouse residency &lt;/a&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/Coliving&#34;&gt;(coliving)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.google.com/maps?q=Central+Europe,+Bratislava,+Slovakia&#34;&gt;Located in Central Europe, Bratislava, Slovakia&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Affiliated with local hackerspace &lt;a href=&#34;https://progressbar.sk&#34;&gt;Progressbar&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;also friends at &lt;a href=&#34;http://base48.cz&#34;&gt;Base48&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://www.paralelnipolis.cz/en/&#34;&gt;ParalelniPolis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Now WorkInProgress, opening &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2017&lt;/sub&gt;, but contact me for beta-run&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;features:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Features&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Fast Internet (500Mbit/30Mbit)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;IPFS local nodes&lt;/li&gt;
+&lt;li&gt;Tor relays&lt;/li&gt;
+&lt;li&gt;anonymous encrypted exits to internet&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Free&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Club-Mate (20mg/100ml)&lt;/li&gt;
+&lt;li&gt;Flora-Power (18mg/100ml)&lt;/li&gt;
+&lt;li&gt;Nootropics (??? :D)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://synectar.sk/en/&#34;&gt;Synectar.sk&lt;/a&gt; (local soylent)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Full-stack kitchen&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Located near woods&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Pet-friendly space&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Shared (e)car &amp;amp; (e)bike (&lt;strong&gt;e&lt;/strong&gt; part is planned)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/projekt.zivot/photos_stream&#34;&gt;Near is community garden&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;trips-locations-near-hackerdome:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Trips locations near hackerdome&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Local Bratislava &lt;em&gt;hidden&lt;/em&gt; locations&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://mpba.sk/en/&#34;&gt;M_P_BA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Sky walk (Stezka v oblacich) (~160mins car)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=oYMlsBFDKuk&#34;&gt;https://www.youtube.com/watch?v=oYMlsBFDKuk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/stezkavoblacich&#34;&gt;https://www.facebook.com/stezkavoblacich&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/Dolni_Morava_Stezka_v_oblacich_1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/maps/place/Lake+Neusiedl/@47.8033419,16.7010148,12z/data=!3m1!4b1!4m2!3m1!1s0x476c3ffe58617d7d:0xea246ea46ba19a1e&#34;&gt;Neusiedler See&lt;/a&gt; (~30mins car)
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/maps/place/7141+Podersdorf+am+See,+Austria/@47.8544268,16.8229922,15z/data=!3m1!4b1!4m2!3m1!1s0x476c6a3879b6aaeb:0xf86d1b10b6c12da7&#34;&gt;Windsurfing / Kitesurfing Podersdorf Am See See&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/Kitesurfen in Podersdorf am Neusiedlersee.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://bikeparkkoliba.sk/?lang=en&#34;&gt;Bikepark Koliba&lt;/a&gt; (~10min on bike)
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://bikeparkkoliba.sk/wp-content/gallery/trat-rohatka/mapa-bikepark-koliba.jpg&#34;&gt;two trails&lt;/a&gt; (map)&lt;/li&gt;
+&lt;li&gt;w/ chair lift&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/gap-rohatka.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.sk/search?q=devin+castle&#34;&gt;Devin Castle&lt;/a&gt; (~20min by car)
+
+&lt;ul&gt;
+&lt;li&gt;near is &lt;a href=&#34;https://sk.wikipedia.org/wiki/Sandberg&#34;&gt;Sandberg&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/12770142264_f1d58e01bf_k.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;near is &amp;ldquo;Weiterov Lom&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/21876762.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.hvezdarna.cz/en&#34;&gt;Brno Observatory and Planetarium&lt;/a&gt; (1 hour drive car/train)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/Hvezdarna_a_planetarium_Brno_016.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Urban Exploration
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://picasaweb.google.com/102795408576830141009&#34;&gt;Near Bratislava UE spots&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Razsochy (unfinished hospital from 80s) (~10mins walk)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=t_5yp0tkm-8&#34;&gt;https://www.youtube.com/watch?v=t_5yp0tkm-8&lt;/a&gt; (Aerial)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Kf5scmfHSvg&#34;&gt;https://www.youtube.com/watch?v=Kf5scmfHSvg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=U-d6e4DiLaM&#34;&gt;https://www.youtube.com/watch?v=U-d6e4DiLaM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5YjjKaXGfoI&#34;&gt;https://www.youtube.com/watch?v=5YjjKaXGfoI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/razsochy.png&#34; alt=&#34;Hospital Razsochy&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Unfinished waterworks from 1970 over the Old Lamač at the place of former quarry (15mins walk)
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://mpba.sk/en/650&#34;&gt;http://mpba.sk/en/650&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/media/set/?set=a.1738304743069345.1073741837.1737418699824616&amp;amp;type=3&#34;&gt;https://www.facebook.com/media/set/?set=a.1738304743069345.1073741837.1737418699824616&amp;amp;type=3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VC34vPyRftc&#34;&gt;https://www.youtube.com/watch?v=VC34vPyRftc&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/12010_1738305056402647_8482876081268208047_n.jpg&#34; alt=&#34;Old waterworks Old Lamac&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Rocket military base built in 80ties of the 20th century. (~40mins bike)
+
+&lt;ul&gt;
+&lt;li&gt;Top of &lt;a href=&#34;https://en.wikipedia.org/wiki/Dev%C3%ADnska_Kobyla&#34;&gt;Devínska Kobyla&lt;/a&gt;. Its peak elevation is 514 m AMSL&lt;/li&gt;
+&lt;li&gt;rocket system ground – air S 125 Neva, known as SA-3 GOA.
+System was developed by company Lavočkin &amp;amp; Gruškin OKB and manufactered by  Fakel MKB.&lt;/li&gt;
+&lt;li&gt;20 objects in area&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/devinskakobyla4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;local-community-groups:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Local community groups&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/cities/sk/bratislava/&#34;&gt;Meetup groups in Bratislava&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Technology&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://rubyslava.sk/&#34;&gt;Rubyslava&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://webelement.sk/&#34;&gt;Webelement&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nodeschool/bratislava&#34;&gt;Nodeschool Bratislava&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Node.js meetup&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/Bratislava-IPFS-Meetup/&#34;&gt;IPFS meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Bike&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://cyklokoalicia.sk/&#34;&gt;Mayor independent community working on development bike conditions - Cyklokoalicia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/criticalmassba/&#34;&gt;Critical Mass Bratislava&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://whitebikes.info/&#34;&gt;White Bikes - community bike renting&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Hackerspaces around&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://progressbar.sk&#34;&gt;Progressbar&lt;/a&gt; @ Bratislava (local)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://metalab.at/&#34;&gt;Metalab&lt;/a&gt; @ Vienna&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://base48.cz/&#34;&gt;Base48&lt;/a&gt; @ Brno&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.paralelnipolis.cz/en/&#34;&gt;ParalelniPolis&lt;/a&gt; @ Prague&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://brmlab.cz/&#34;&gt;Brmlab&lt;/a&gt; @ Prague&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://labka.cz&#34;&gt;Labka&lt;/a&gt; @ Ostrava&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.v01d.sk&#34;&gt;V01D&lt;/a&gt; @ Kosice&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hsbp.org&#34;&gt;H.A.C.K.&lt;/a&gt; @ Budapest&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.hackerspaces.org/List_of_Hacker_Spaces&#34;&gt;List of Active hackerspaces&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Fablabs&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.fablab.sk/en/&#34;&gt;Fablab.sk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lab - in old market hall, downtown Bratislava (Q1 2016)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Media/Art&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.a4.sk/&#34;&gt;A4 – SPACE FOR CONTEMPORARY CULTURE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/fuga.ba/&#34;&gt;FUGA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cvernovka.com/&#34;&gt;Cvernovka&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;goodies:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Goodies&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tesco &lt;sup&gt;24&lt;/sup&gt;&amp;frasl;&lt;sub&gt;7&lt;/sub&gt; (5min bike)&lt;/li&gt;
+&lt;li&gt;Gas station &lt;sup&gt;24&lt;/sup&gt;&amp;frasl;&lt;sub&gt;7&lt;/sub&gt; (5min bike)&lt;/li&gt;
+&lt;li&gt;McDonalds &lt;sup&gt;24&lt;/sup&gt;&amp;frasl;&lt;sub&gt;7&lt;/sub&gt; (5min bike/2min car)&lt;/li&gt;
+&lt;li&gt;Kaufland 7-22 (10min walk)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;equipment:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Equipment&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Standing desk &lt;a href=&#34;http://www.ikea.com/us/en/catalog/products/S29084966/&#34;&gt;Skarsta&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lot of pallets (let&amp;rsquo;s build something?!)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;city-transportation:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;City Transportation&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;We got Uber &amp;amp; Liftago (yay!, costs like 3-7€ to Downtown)&lt;/li&gt;
+&lt;li&gt;By bus, you are in Downtown in 12 mins, costs like 0.70€
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://imhd.sk/ba/schedule-timetable/stop/2415/Pod-Zecakom&#34;&gt;Bus stop zone in front of HackerDome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://imhd.sk/ba/schedule-timetable/stop/2771/Huscavova&#34;&gt;Bus stop Húščavova&lt;/a&gt; (7min walk)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://imhd.sk/ba/schedule-timetable/stop/2400/Pridanky&#34;&gt;Bus stop Pridánky&lt;/a&gt; (5min walk)&lt;/li&gt;
+&lt;li&gt;Night buses (every hour)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://imhd.sk/ba/schedule-timetable/linka/N21/smer/Devinska-Nova-Ves/zastavka/Hlavna-stanica-Central-Railway-Station/629145695259&#34;&gt;N21 from Central Railway Station&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://imhd.sk/ba/schedule-timetable/linka/N37/smer/Zahorska-Bystrica/zastavka/Hlavna-stanica-Central-Railway-Station/419430495249&#34;&gt;N37 from Central Railway Station&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.opencyclemap.org/?zoom=11&amp;amp;lat=48.17073&amp;amp;lon=17.12116&amp;amp;layers=B0000&#34;&gt;By bike you are in Downtown in 20mins&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;cities-near:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Cities near&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Vienna, Austria (1 hour by car/train)&lt;/li&gt;
+&lt;li&gt;Brno, Czech Republic (1 hour by car/train)&lt;/li&gt;
+&lt;li&gt;Budapest, Hungary (2 hours by car/train)&lt;/li&gt;
+&lt;li&gt;Prague, Czech Republic (3 hours by car/train)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;options-to-stay:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Options to stay&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Micro-term&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;staying for like hackercouch, 1-3 days&lt;/li&gt;
+&lt;li&gt;just support us buying club-mate at place, you are welcome!&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Mid-term&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Plan to stay for 1-12 weeks, great! :)&lt;/li&gt;
+&lt;li&gt;Get in touch with local community&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Long-term&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;12+ weeks&lt;/li&gt;
+&lt;li&gt;So you really like Bratislava, noice :)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;do-you-want-in:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Do you want in?&lt;/h3&gt;
+
+&lt;p&gt;We accept payments in Bitcoin, Ethereum and also in analog money.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/Bitcoin_Accepted_Here-800px.png&#34; alt=&#34;Bitcoin Accepted here&#34; /&gt;
+&lt;img src=&#34;img/ETHEREUM-LOGO_LANDSCAPE_Black-800px.png&#34; alt=&#34;Ethereum Accepted here&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;who-i-m:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Who I&amp;rsquo;m&lt;/h3&gt;
+
+&lt;p&gt;Founder of &lt;a href=&#34;https://progressbar.sk&#34;&gt;Progressbar&lt;/a&gt;. It all started before summer 2010 :)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/matej.satoshi&#34;&gt;Facebook Matej &amp;lsquo;wao&amp;rsquo; Nemček&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/YangWao&#34;&gt;Twitter @yangwao&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/yangwao/&#34;&gt;Instagram @yangwao&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/user/jangwao/&#34;&gt;Reddit jangwao&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/mnemcek&#34;&gt;Linkedin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;contact:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Contact&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/yangwao/hackerdome.xyz/issues/new&#34;&gt;Ask me something about HackerDome&lt;/a&gt; at Github&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;irc://chat.freenode.net/hackerdome&#34;&gt;join IRC #hackerdome @ Freenode&lt;/a&gt; or &lt;a href=&#34;http://webchat.freenode.net/?channels=%23hackerdome&#34;&gt;use webchat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Keep in touch, yangwao at freenode or try catch me ybdaba at gmail dat com&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;some-clickings:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Some clickings&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://apollo.open-resource.org/&#34;&gt;Mobile hackbase Apollo NG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hackercouch.com/&#34;&gt;http://hackercouch.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.hackerspaces.org/&#34;&gt;https://wiki.hackerspaces.org/&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.hackerspaces.org/Residencies&#34;&gt;https://wiki.hackerspaces.org/Residencies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.hackerspaces.org/Exchanges&#34;&gt;https://wiki.hackerspaces.org/Exchanges&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.hackerspaces.org/Hackbase&#34;&gt;https://wiki.hackerspaces.org/Hackbase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.hackerspaces.org/infinity&#34;&gt;https://wiki.hackerspaces.org/infinity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hillhacks.in/index&#34;&gt;http://hillhacks.in/index&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hillhacks.in/unconference&#34;&gt;http://hillhacks.in/unconference&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://totalism.org&#34;&gt;http://totalism.org&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://totalism.org/calendar&#34;&gt;http://totalism.org/calendar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://totalism.org/alike&#34;&gt;http://totalism.org/alike&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://totalism.org/maps&#34;&gt;http://totalism.org/maps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.techinc.nl/index.php/User:Becha/Lika#2016&#34;&gt;https://wiki.techinc.nl/index.php/User:Becha/Lika#2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techsquat.com/&#34;&gt;http://techsquat.com/&lt;/a&gt; (in Czech Republic Brno &amp;amp; Prague)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://opendoor.io/&#34;&gt;http://opendoor.io/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.wework.com/&#34;&gt;https://www.wework.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nomadhouse.io/&#34;&gt;https://nomadhouse.io/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.thecaravanserai.co/preview&#34;&gt;http://www.thecaravanserai.co/preview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://coconat-space.com/work/&#34;&gt;http://coconat-space.com/work/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.shareable.net/blog/6-coliving-networks-reinventing-home&#34;&gt;http://www.shareable.net/blog/6-coliving-networks-reinventing-home&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;why-geodesic-dome:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Why Geodesic dome&lt;/h3&gt;
+
+&lt;h4 id=&#34;authors:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Authors&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Buckminster_Fuller&#34;&gt;Buckminister Fuller&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Walther_Bauersfeld&#34;&gt;Walther Bauersfeld&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/geodesic-dome-cardboard-fulldome.gif&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;img/Screen-Shot-2015-02-11-at-9.31.43-PM.gif&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;img/TrickleDomnRing.gif&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;img/hexpat.jpeg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;img/gd15group_plans.jpg&#34; alt=&#34;&#34; /&gt;&lt;img src=&#34;img/CONBAM_BambooDomes_01.gif&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;img/9165c68199c0d7e1cd235a71bca3e859.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;img/24diagram.bmp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.edenproject.com/&#34;&gt;the largest indoor rainforest in the world (Project Eden)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/biomes_0.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;crazy-shit-in-end:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Crazy shit in end&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://architizer.com/blog/buckminster-fuller-robot/&#34;&gt;BuckMinster Fuller Meets Transformers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/eca19124bdc0a3dfaafb95ff63abdf11.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;img/ac6d9656c8208ca1179203ca8b912b85.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;img/1259451427625907117.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/yangwao/hackerdome.xyz/blob/master/README.md&#34;&gt;If IPFS has some troubles, here is latest revision&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
