@@ -28,7 +28,7 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 * Fast Internet (500Mbit/30Mbit)
   * IPFS local nodes
   * Tor relays
-  * anonymous encrypted exits to internet
+  * anonymous encrypted exits to the internet
 
 
 * Free
@@ -110,7 +110,7 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
   * [Rubyslava](http://rubyslava.sk/)
   * [Webelement](https://webelement.sk/)
   * [Nodeschool Bratislava](https://github.com/nodeschool/bratislava)
-  * Node.js meetup
+  * [Node.js meetup](http://www.meetup.com/nodeba/events/228479101/)
   * [IPFS meetup](http://www.meetup.com/Bratislava-IPFS-Meetup/)
 
 * Bike  
@@ -147,8 +147,26 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 
 ### Equipment
 
+* Infrastructure
+  * Mikrotik RB951G-2HnD
+  * Ubiquity AP-AC Pro Gen2
+  * Waiting for [Turris Omnia](https://omnia.turris.cz/en/)
+  * Hardkernel
+    * Odroid X2 (MarkOne)
+    * C1+ & C2 (WiP)
 * Standing desk [Skarsta](http://www.ikea.com/us/en/catalog/products/S29084966/)
+* Projector
+* Desks
 * Lot of pallets (let's build something?!)
+* Great backyard for ideas with fireplace
+* Floorplan
+  * 6 double/two bed
+  * 2 living-rooms
+  * 2 bathrooms
+  * 2 basement rooms
+  * 2 garages
+  * 1 laundry room
+  * 1(2) dome(s) on the roof (WiP)
 
 ### City Transportation
 
@@ -208,29 +226,37 @@ Founder of [Progressbar](https://progressbar.sk). It all started before summer 2
 
 ### Some clickings
 
-* [Mobile hackbase Apollo NG](https://apollo.open-resource.org/)
-* http://hackercouch.com/
-* https://wiki.hackerspaces.org/
-  * https://wiki.hackerspaces.org/Residencies
-  * https://wiki.hackerspaces.org/Exchanges
-  * https://wiki.hackerspaces.org/Hackbase
-  * https://wiki.hackerspaces.org/infinity
-    * http://hillhacks.in/index
-    * http://hillhacks.in/unconference
-* http://totalism.org
-  * http://totalism.org/calendar
-  * http://totalism.org/alike
-  * http://totalism.org/maps
-* https://wiki.techinc.nl/index.php/User:Becha/Lika#2016
-* http://techsquat.com/ (in Czech Republic Brno & Prague)
-* http://opendoor.io/
-* https://www.wework.com/
-* https://nomadhouse.io/
-* http://www.thecaravanserai.co/preview
-* http://coconat-space.com/work/
-* http://www.shareable.net/blog/6-coliving-networks-reinventing-home
+* Hacker-like link-toolkit
+  * [Mobile hackbase Apollo NG](https://apollo.open-resource.org/)
+  * [Hackercouch](http://hackercouch.com/)
+  * [Hackerspaces.org](https://wiki.hackerspaces.org/)
+    * [Residencies](https://wiki.hackerspaces.org/Residencies)
+    * [Exchanges](https://wiki.hackerspaces.org/Exchanges)
+    * [Hackbase](https://wiki.hackerspaces.org/Hackbase)
+  * [Infinity](https://wiki.hackerspaces.org/infinity) (hackbase, IN)
+      * [Home](http://hillhacks.in/index)
+      * [Unconference](http://hillhacks.in/unconference)
+  * [Totalism.org](http://totalism.org)
+    * [Calendar](http://totalism.org/calendar)
+    * [Alike](http://totalism.org/alike)
+    * [Maps](http://totalism.org/maps)
+  * https://wiki.techinc.nl/index.php/User:Becha/Lika#2016
+
+* (Digital)Nomad-like
+  * [Techsquat](http://techsquat.com/) (in Czech Republic Brno & Prague)
+  * [Opendoor.io](http://opendoor.io/)
+  * [WeWork](https://www.wework.com/)
+  * [Nomadhouse](https://nomadhouse.io/)
+  * [The Caravanserai](http://www.thecaravanserai.co/preview)
+  * [Coconat-space](http://coconat-space.com/work/)
+
+* Media
+  * http://www.shareable.net/blog/6-coliving-networks-reinventing-home
 
 ### Why Geodesic dome
+#### History
+* [Geodesic dome](https://en.wikipedia.org/wiki/Geodesic_dome)
+* [Montreal Biosphère](https://en.wikipedia.org/wiki/Montreal_Biosph%C3%A8re)
 
 #### Authors
 * [Buckminister Fuller](https://en.wikipedia.org/wiki/Buckminster_Fuller)
