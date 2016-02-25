@@ -30,16 +30,14 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
   * Tor relays
   * anonymous encrypted exits to the internet
 
-
 * Free
   * Club-Mate (20mg/100ml)
   * Flora-Power (18mg/100ml)
   * Nootropics (??? :D)
   * [Synectar.sk](http://synectar.sk/en/) (local soylent)
 
-
-* Full-stack kitchen
-* Located near woods
+* Full-stack kitchen (WiP)
+* Located near woods 
 * Pet-friendly space
 * Shared (e)car & (e)bike (**e** part is planned)
 * [Near is community garden](https://www.facebook.com/projekt.zivot/photos_stream)
