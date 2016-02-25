@@ -190,8 +190,9 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 ### Options to stay
 
 * Micro-term
-  * staying for like hackercouch, 1-3 days
-  * just support us buying club-mate at place, you are welcome!
+  * one night crash
+  * staying for 1-3 days, like hackercouch
+  * just support us buying Club-mate/Flora-Power at place, you are welcome!
 
 * Mid-term
   * Plan to stay for 1-12 weeks, great! :)
@@ -282,4 +283,4 @@ Founder of [Progressbar](https://progressbar.sk). It all started before summer 2
 ![](img/ac6d9656c8208ca1179203ca8b912b85.jpg)
 ![](img/1259451427625907117.gif)
 
-[If IPFS has some troubles, here is latest revision](https://github.com/yangwao/hackerdome.xyz/blob/master/README.md)
+[If IPFS has some troubles, here is latest revision](https://github.com/yangwao/hackerdome.xyz)

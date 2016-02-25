@@ -40,7 +40,7 @@
 &lt;ul&gt;
 &lt;li&gt;IPFS local nodes&lt;/li&gt;
 &lt;li&gt;Tor relays&lt;/li&gt;
-&lt;li&gt;anonymous encrypted exits to internet&lt;/li&gt;
+&lt;li&gt;anonymous encrypted exits to the internet&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Free&lt;/p&gt;
@@ -176,7 +176,7 @@ System was developed by company Lavočkin &amp;amp; Gruškin OKB and manufactere
 &lt;li&gt;&lt;a href=&#34;http://rubyslava.sk/&#34;&gt;Rubyslava&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://webelement.sk/&#34;&gt;Webelement&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/nodeschool/bratislava&#34;&gt;Nodeschool Bratislava&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Node.js meetup&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/nodeba/events/228479101/&#34;&gt;Node.js meetup&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.meetup.com/Bratislava-IPFS-Meetup/&#34;&gt;IPFS meetup&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
@@ -230,8 +230,32 @@ System was developed by company Lavočkin &amp;amp; Gruškin OKB and manufactere
 &lt;h3 id=&#34;equipment:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Equipment&lt;/h3&gt;
 
 &lt;ul&gt;
+&lt;li&gt;Infrastructure
+
+&lt;ul&gt;
+&lt;li&gt;Mikrotik RB951G-2HnD&lt;/li&gt;
+&lt;li&gt;Ubiquity AP-AC Pro Gen2&lt;/li&gt;
+&lt;li&gt;Waiting for &lt;a href=&#34;https://omnia.turris.cz/en/&#34;&gt;Turris Omnia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Hardkernel&lt;/li&gt;
+&lt;li&gt;Odroid X2 (MarkOne)&lt;/li&gt;
+&lt;li&gt;C1+ &amp;amp; C2 (WiP)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Standing desk &lt;a href=&#34;http://www.ikea.com/us/en/catalog/products/S29084966/&#34;&gt;Skarsta&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Projector&lt;/li&gt;
+&lt;li&gt;Desks&lt;/li&gt;
 &lt;li&gt;Lot of pallets (let&amp;rsquo;s build something?!)&lt;/li&gt;
+&lt;li&gt;Great backyard for ideas with fireplace&lt;/li&gt;
+&lt;li&gt;Floorplan
+
+&lt;ul&gt;
+&lt;li&gt;6 double/two bed&lt;/li&gt;
+&lt;li&gt;2 living-rooms&lt;/li&gt;
+&lt;li&gt;2 bathrooms&lt;/li&gt;
+&lt;li&gt;2 basement rooms&lt;/li&gt;
+&lt;li&gt;2 garages&lt;/li&gt;
+&lt;li&gt;1 laundry room&lt;/li&gt;
+&lt;li&gt;1(2) dome(s) on the roof (WiP)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;city-transportation:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;City Transportation&lt;/h3&gt;
@@ -315,36 +339,54 @@ System was developed by company Lavočkin &amp;amp; Gruškin OKB and manufactere
 &lt;h3 id=&#34;some-clickings:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Some clickings&lt;/h3&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Hacker-like link-toolkit&lt;/p&gt;
+
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://apollo.open-resource.org/&#34;&gt;Mobile hackbase Apollo NG&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://hackercouch.com/&#34;&gt;http://hackercouch.com/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.hackerspaces.org/&#34;&gt;https://wiki.hackerspaces.org/&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;http://hackercouch.com/&#34;&gt;Hackercouch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.hackerspaces.org/&#34;&gt;Hackerspaces.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.hackerspaces.org/Residencies&#34;&gt;Residencies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.hackerspaces.org/Exchanges&#34;&gt;Exchanges&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.hackerspaces.org/Hackbase&#34;&gt;Hackbase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.hackerspaces.org/infinity&#34;&gt;Infinity&lt;/a&gt; (hackbase, IN)
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.hackerspaces.org/Residencies&#34;&gt;https://wiki.hackerspaces.org/Residencies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.hackerspaces.org/Exchanges&#34;&gt;https://wiki.hackerspaces.org/Exchanges&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.hackerspaces.org/Hackbase&#34;&gt;https://wiki.hackerspaces.org/Hackbase&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.hackerspaces.org/infinity&#34;&gt;https://wiki.hackerspaces.org/infinity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://hillhacks.in/index&#34;&gt;http://hillhacks.in/index&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://hillhacks.in/unconference&#34;&gt;http://hillhacks.in/unconference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hillhacks.in/index&#34;&gt;Home&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hillhacks.in/unconference&#34;&gt;Unconference&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://totalism.org&#34;&gt;http://totalism.org&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://totalism.org/calendar&#34;&gt;http://totalism.org/calendar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://totalism.org/alike&#34;&gt;http://totalism.org/alike&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://totalism.org/maps&#34;&gt;http://totalism.org/maps&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://totalism.org&#34;&gt;Totalism.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://totalism.org/calendar&#34;&gt;Calendar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://totalism.org/alike&#34;&gt;Alike&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://totalism.org/maps&#34;&gt;Maps&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://wiki.techinc.nl/index.php/User:Becha/Lika#2016&#34;&gt;https://wiki.techinc.nl/index.php/User:Becha/Lika#2016&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://techsquat.com/&#34;&gt;http://techsquat.com/&lt;/a&gt; (in Czech Republic Brno &amp;amp; Prague)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://opendoor.io/&#34;&gt;http://opendoor.io/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.wework.com/&#34;&gt;https://www.wework.com/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://nomadhouse.io/&#34;&gt;https://nomadhouse.io/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.thecaravanserai.co/preview&#34;&gt;http://www.thecaravanserai.co/preview&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://coconat-space.com/work/&#34;&gt;http://coconat-space.com/work/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;(Digital)Nomad-like&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://techsquat.com/&#34;&gt;Techsquat&lt;/a&gt; (in Czech Republic Brno &amp;amp; Prague)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://opendoor.io/&#34;&gt;Opendoor.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.wework.com/&#34;&gt;WeWork&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nomadhouse.io/&#34;&gt;Nomadhouse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.thecaravanserai.co/preview&#34;&gt;The Caravanserai&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://coconat-space.com/work/&#34;&gt;Coconat-space&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Media&lt;/p&gt;
+
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.shareable.net/blog/6-coliving-networks-reinventing-home&#34;&gt;http://www.shareable.net/blog/6-coliving-networks-reinventing-home&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;why-geodesic-dome:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Why Geodesic dome&lt;/h3&gt;
+
+&lt;h4 id=&#34;history:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;History&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Geodesic_dome&#34;&gt;Geodesic dome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Montreal_Biosph%C3%A8re&#34;&gt;Montreal Biosphère&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h4 id=&#34;authors:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Authors&lt;/h4&gt;
 
