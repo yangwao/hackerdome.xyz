@@ -151,21 +151,19 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 * [Eurotrip scene about Bratislava](https://www.youtube.com/watch?v=cqEsE-IKBI8) (everything for nickel :D)
 * [Visit Bratislava](https://www.youtube.com/watch?v=oac2zPqWGYw&list=PLMvkaYHjYzxfmANH5OLRde_6uRcrTtiBD) (from local tourist agency)
 
-
 ### Weather
 * [Climate profile from Wikipedia](https://en.wikipedia.org/wiki/Bratislava#Climate)
 * [Climate history](http://www.bratislava.climatemps.com/)
 * [Actual weather](http://www.wunderground.com/weather-forecast/S1/Bratislava.html)
 
-http://www.wunderground.com/weather-forecast/S1/Bratislava.html
 ### Equipment
 
 * Infrastructure
   * Mikrotik RB951G-2HnD
-  * Ubiquity AP-AC Pro Gen2
+  * [Ubiquiti AP-AC Pro Gen2 (2,4 GHz: 3×3; 5 GHz: 3×3)](https://www.ubnt.com/unifi/unifi-ap-ac-pro/)
   * Waiting for [Turris Omnia](https://omnia.turris.cz/en/)
   * Hardkernel
-    * Odroid X2 (MarkOne)
+    * [Odroid X2 (MarkOne)](http://www.hardkernel.com/main/products/prdt_info.php?g_code=G135235611947)
     * C1+ & C2 (WiP)
 * Standing desk [Skarsta](http://www.ikea.com/us/en/catalog/products/S29084966/)
 * Media
