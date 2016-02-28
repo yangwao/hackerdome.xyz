@@ -35,6 +35,7 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
   * Flora-Power (18mg/100ml)
   * Nootropics (??? :D)
   * [Synectar.sk](http://synectar.sk/en/) (local soylent)
+  * Dark chocolate ~85%+ (source of [Sirtuin](https://en.wikipedia.org/wiki/Sirtuin))
 
 * Full-stack kitchen (WiP)
 * Located near woods
@@ -145,6 +146,12 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 * Kaufland 7-22 (10min walk)
   * Pharmacy 8-20 (5min bike)
 
+### Weather
+* [Climate profile from Wikipedia](https://en.wikipedia.org/wiki/Bratislava#Climate)
+* [Climate history](http://www.bratislava.climatemps.com/)
+* [Actual weather](http://www.wunderground.com/weather-forecast/S1/Bratislava.html)
+
+http://www.wunderground.com/weather-forecast/S1/Bratislava.html
 ### Equipment
 
 * Infrastructure
@@ -229,12 +236,12 @@ Founder of [Progressbar](https://progressbar.sk). It all started before summer 2
 * [join IRC #hackerdome @ Freenode](irc://chat.freenode.net/hackerdome) or [use webchat](http://webchat.freenode.net/?channels=%23hackerdome)
 * Keep in touch, yangwao at freenode or try catch me ybdaba at gmail dat com
 
-### Some clickings
+### Some click-baits
 
 * Hacker-like link-toolkit
   * [Mobile hackbase Apollo NG](https://apollo.open-resource.org/)
   * [Hackercouch](http://hackercouch.com/)
-  * [Hackerspaces.org](https://wiki.hackerspaces.org/)
+  * [Hackerspaces.org](https://wiki.hackerspaces.org/) (wiki)
     * [Residencies](https://wiki.hackerspaces.org/Residencies)
     * [Exchanges](https://wiki.hackerspaces.org/Exchanges)
     * [Hackbase](https://wiki.hackerspaces.org/Hackbase)
