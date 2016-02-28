@@ -183,6 +183,15 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
   * 1 laundry room
   * 1(2) dome(s) on the roof (WiP)
 
+### Workshops
+
+* We prefer hackers, who have experience and can do some workshops in
+  * Image recognition (OpenCV,..)
+  * Cryptography
+  * Distributed systems
+  * Crafting (wood,..)
+  * ..?
+
 ### City Transportation
 
 * We got Uber & Liftago (yay!, costs like 3-7€ to Downtown)
