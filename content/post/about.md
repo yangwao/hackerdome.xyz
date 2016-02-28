@@ -37,7 +37,7 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
   * [Synectar.sk](http://synectar.sk/en/) (local soylent)
 
 * Full-stack kitchen (WiP)
-* Located near woods 
+* Located near woods
 * Pet-friendly space
 * Shared (e)car & (e)bike (**e** part is planned)
 * [Near is community garden](https://www.facebook.com/projekt.zivot/photos_stream)
@@ -138,10 +138,12 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 
 ### Goodies
 
-* Tesco 24/7 (5min bike)
+* Tesco 6-24 (5min bike)
+  * Pharmacy 8-20 (5min bike)
 * Gas station 24/7 (5min bike)
 * McDonalds 24/7 (5min bike/2min car)
 * Kaufland 7-22 (10min walk)
+  * Pharmacy 8-20 (5min bike)
 
 ### Equipment
 
@@ -153,7 +155,11 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
     * Odroid X2 (MarkOne)
     * C1+ & C2 (WiP)
 * Standing desk [Skarsta](http://www.ikea.com/us/en/catalog/products/S29084966/)
-* Projector
+* Media
+  * Projector
+  * Chromecast 2
+  * Telly 55" for terminal sessions
+  * Some 24" monitors
 * Desks
 * Lot of pallets (let's build something?!)
 * Great backyard for ideas with fireplace
