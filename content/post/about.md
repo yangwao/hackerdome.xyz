@@ -266,6 +266,7 @@ Founder of [Progressbar](https://progressbar.sk). It all started before summer 2
     * [Alike](http://totalism.org/alike)
     * [Maps](http://totalism.org/maps)
   * https://wiki.techinc.nl/index.php/User:Becha/Lika#2016
+  * http://unmonastery.org/
 
 * (Digital)Nomad-like
   * [Techsquat](http://techsquat.com/) (in Czech Republic Brno & Prague)
