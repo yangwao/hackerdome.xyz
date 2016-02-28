@@ -146,6 +146,12 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 * Kaufland 7-22 (10min walk)
   * Pharmacy 8-20 (5min bike)
 
+### Bratislava
+
+* [Eurotrip scene about Bratislava](https://www.youtube.com/watch?v=cqEsE-IKBI8) (everything for nickel :D)
+* [Visit Bratislava](https://www.youtube.com/watch?v=oac2zPqWGYw&list=PLMvkaYHjYzxfmANH5OLRde_6uRcrTtiBD) (from local tourist agency)
+
+
 ### Weather
 * [Climate profile from Wikipedia](https://en.wikipedia.org/wiki/Bratislava#Climate)
 * [Climate history](http://www.bratislava.climatemps.com/)
