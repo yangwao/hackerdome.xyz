@@ -16,7 +16,7 @@ title = "What is HackerDome?"
 
 Hackerdome will be one of very first **true** [hackerhouse residency ](https://wiki.hackerspaces.org/Hackbase) [(coliving)](https://en.wikipedia.org/wiki/Coliving)
 
-[Located in Central Europe, Bratislava, Slovakia](https://www.google.com/maps?q=Central+Europe,+Bratislava,+Slovakia)
+Great shelter with friendly-apes and secure food supply for your great ideas [located in Central Europe, Bratislava, Slovakia](https://www.google.com/maps?q=Central+Europe,+Bratislava,+Slovakia)
 
 Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 
