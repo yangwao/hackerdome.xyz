@@ -111,6 +111,9 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
   * [Nodeschool Bratislava](https://github.com/nodeschool/bratislava)
   * [Node.js meetup](http://www.meetup.com/nodeba/events/228479101/)
   * [IPFS meetup](http://www.meetup.com/Bratislava-IPFS-Meetup/)
+  * Techwalks [in near forest](https://www.openstreetmap.org/#map=15/48.1921/17.0843) (let's form group on group walks on evening-midnight for 2-3 hours)
+
+![](img/hrubydrienovec.png)
 
 * Bike  
   * [Mayor independent community working on development bike conditions - Cyklokoalicia](http://cyklokoalicia.sk/)
