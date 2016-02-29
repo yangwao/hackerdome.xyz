@@ -22,7 +22,7 @@
 
 &lt;p&gt;Hackerdome will be one of very first &lt;strong&gt;true&lt;/strong&gt; &lt;a href=&#34;https://wiki.hackerspaces.org/Hackbase&#34;&gt;hackerhouse residency &lt;/a&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/Coliving&#34;&gt;(coliving)&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.google.com/maps?q=Central+Europe,+Bratislava,+Slovakia&#34;&gt;Located in Central Europe, Bratislava, Slovakia&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Great shelter with friendly-apes and secure food supply for your great ideas &lt;a href=&#34;https://www.google.com/maps?q=Central+Europe,+Bratislava,+Slovakia&#34;&gt;located in Central Europe, Bratislava, Slovakia&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Affiliated with local hackerspace &lt;a href=&#34;https://progressbar.sk&#34;&gt;Progressbar&lt;/a&gt;&lt;/p&gt;
 
@@ -50,6 +50,7 @@
 &lt;li&gt;Flora-Power (18mg/100ml)&lt;/li&gt;
 &lt;li&gt;Nootropics (??? :D)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://synectar.sk/en/&#34;&gt;Synectar.sk&lt;/a&gt; (local soylent)&lt;/li&gt;
+&lt;li&gt;Dark chocolate ~85%+ (source of &lt;a href=&#34;https://en.wikipedia.org/wiki/Sirtuin&#34;&gt;Sirtuin&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Full-stack kitchen (WiP)&lt;/p&gt;&lt;/li&gt;
@@ -221,10 +222,33 @@ System was developed by company Lavočkin &amp;amp; Gruškin OKB and manufactere
 &lt;h3 id=&#34;goodies:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Goodies&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Tesco &lt;sup&gt;24&lt;/sup&gt;&amp;frasl;&lt;sub&gt;7&lt;/sub&gt; (5min bike)&lt;/li&gt;
+&lt;li&gt;Tesco 6-24 (5min bike)
+
+&lt;ul&gt;
+&lt;li&gt;Pharmacy 8-20 (5min bike)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Gas station &lt;sup&gt;24&lt;/sup&gt;&amp;frasl;&lt;sub&gt;7&lt;/sub&gt; (5min bike)&lt;/li&gt;
 &lt;li&gt;McDonalds &lt;sup&gt;24&lt;/sup&gt;&amp;frasl;&lt;sub&gt;7&lt;/sub&gt; (5min bike/2min car)&lt;/li&gt;
-&lt;li&gt;Kaufland 7-22 (10min walk)&lt;/li&gt;
+&lt;li&gt;Kaufland 7-22 (10min walk)
+
+&lt;ul&gt;
+&lt;li&gt;Pharmacy 8-20 (5min bike)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;bratislava:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Bratislava&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=cqEsE-IKBI8&#34;&gt;Eurotrip scene about Bratislava&lt;/a&gt; (everything for nickel :D)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=oac2zPqWGYw&amp;amp;list=PLMvkaYHjYzxfmANH5OLRde_6uRcrTtiBD&#34;&gt;Visit Bratislava&lt;/a&gt; (from local tourist agency)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;weather:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Weather&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bratislava#Climate&#34;&gt;Climate profile from Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bratislava.climatemps.com/&#34;&gt;Climate history&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.wunderground.com/weather-forecast/S1/Bratislava.html&#34;&gt;Actual weather&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;equipment:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Equipment&lt;/h3&gt;
@@ -234,14 +258,21 @@ System was developed by company Lavočkin &amp;amp; Gruškin OKB and manufactere
 
 &lt;ul&gt;
 &lt;li&gt;Mikrotik RB951G-2HnD&lt;/li&gt;
-&lt;li&gt;Ubiquity AP-AC Pro Gen2&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ubnt.com/unifi/unifi-ap-ac-pro/&#34;&gt;Ubiquiti AP-AC Pro Gen2 (2,4 GHz: 3×3; 5 GHz: 3×3)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Waiting for &lt;a href=&#34;https://omnia.turris.cz/en/&#34;&gt;Turris Omnia&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Hardkernel&lt;/li&gt;
-&lt;li&gt;Odroid X2 (MarkOne)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.hardkernel.com/main/products/prdt_info.php?g_code=G135235611947&#34;&gt;Odroid X2 (MarkOne)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;C1+ &amp;amp; C2 (WiP)&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Standing desk &lt;a href=&#34;http://www.ikea.com/us/en/catalog/products/S29084966/&#34;&gt;Skarsta&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Media
+
+&lt;ul&gt;
 &lt;li&gt;Projector&lt;/li&gt;
+&lt;li&gt;Chromecast 2&lt;/li&gt;
+&lt;li&gt;Telly 55&amp;rdquo; for terminal sessions&lt;/li&gt;
+&lt;li&gt;Some 24&amp;rdquo; monitors&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Desks&lt;/li&gt;
 &lt;li&gt;Lot of pallets (let&amp;rsquo;s build something?!)&lt;/li&gt;
 &lt;li&gt;Great backyard for ideas with fireplace&lt;/li&gt;
@@ -255,6 +286,20 @@ System was developed by company Lavočkin &amp;amp; Gruškin OKB and manufactere
 &lt;li&gt;2 garages&lt;/li&gt;
 &lt;li&gt;1 laundry room&lt;/li&gt;
 &lt;li&gt;1(2) dome(s) on the roof (WiP)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;workshops:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Workshops&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;We prefer hackers, who have experience and can do some workshops in
+
+&lt;ul&gt;
+&lt;li&gt;Image recognition (OpenCV,..)&lt;/li&gt;
+&lt;li&gt;Cryptography&lt;/li&gt;
+&lt;li&gt;Distributed systems&lt;/li&gt;
+&lt;li&gt;Crafting (wood,..)&lt;/li&gt;
+&lt;li&gt;..?&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -337,7 +382,7 @@ System was developed by company Lavočkin &amp;amp; Gruškin OKB and manufactere
 &lt;li&gt;Keep in touch, yangwao at freenode or try catch me ybdaba at gmail dat com&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;some-clickings:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Some clickings&lt;/h3&gt;
+&lt;h3 id=&#34;some-click-baits:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Some click-baits&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Hacker-like link-toolkit&lt;/p&gt;
@@ -345,7 +390,7 @@ System was developed by company Lavočkin &amp;amp; Gruškin OKB and manufactere
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://apollo.open-resource.org/&#34;&gt;Mobile hackbase Apollo NG&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://hackercouch.com/&#34;&gt;Hackercouch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.hackerspaces.org/&#34;&gt;Hackerspaces.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.hackerspaces.org/&#34;&gt;Hackerspaces.org&lt;/a&gt; (wiki)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://wiki.hackerspaces.org/Residencies&#34;&gt;Residencies&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://wiki.hackerspaces.org/Exchanges&#34;&gt;Exchanges&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://wiki.hackerspaces.org/Hackbase&#34;&gt;Hackbase&lt;/a&gt;&lt;/li&gt;
@@ -360,6 +405,7 @@ System was developed by company Lavočkin &amp;amp; Gruškin OKB and manufactere
 &lt;li&gt;&lt;a href=&#34;http://totalism.org/alike&#34;&gt;Alike&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://totalism.org/maps&#34;&gt;Maps&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://wiki.techinc.nl/index.php/User:Becha/Lika#2016&#34;&gt;https://wiki.techinc.nl/index.php/User:Becha/Lika#2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://unmonastery.org/&#34;&gt;http://unmonastery.org/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;(Digital)Nomad-like&lt;/p&gt;
