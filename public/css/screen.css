@@ -1991,7 +1991,7 @@ canvas {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-color: #2FA7DC;
+  background-color: #230031;
   /*background-image: url("../images/screen.jpg");*/
   background-repeat: no-repeat;
   background-size: cover;
@@ -2034,5 +2034,3 @@ canvas {
 .count-particles {
   border-radius: 0 0 3px 3px;
 }
-
-

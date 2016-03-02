@@ -43,7 +43,7 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 * Shared (e)car & (e)bike (**e** part is planned)
 * [Near is community garden](https://www.facebook.com/projekt.zivot/photos_stream)
 
-### Trips locations near hackerdome
+### Trip locations near HackerDome
 * Local Bratislava *hidden* locations
   * [M_P_BA](http://mpba.sk/en/)
 
@@ -111,7 +111,7 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
   * [Nodeschool Bratislava](https://github.com/nodeschool/bratislava)
   * [Node.js meetup](http://www.meetup.com/nodeba/events/228479101/)
   * [IPFS meetup](http://www.meetup.com/Bratislava-IPFS-Meetup/)
-  * Techwalks [in near forest](https://www.openstreetmap.org/#map=15/48.1921/17.0843) (let's form group on group walks on evening-midnight for 2-3 hours)
+  * Techwalks [in near forest](https://www.openstreetmap.org/#map=15/48.1921/17.0843) (let's form group for walks on evening-midnight for 2-3 hours into deep woods)
 
 ![](img/hrubydrienovec.png)
 
@@ -121,18 +121,19 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
   * [White Bikes - community bike renting](http://whitebikes.info/)
 
 * Hackerspaces around
-  * [Progressbar](http://progressbar.sk) @ Bratislava (local)
-  * [Metalab](https://metalab.at/) @ Vienna
-  * [Base48](http://base48.cz/) @ Brno
-  * [ParalelniPolis](https://www.paralelnipolis.cz/en/) @ Prague
-  * [Brmlab](http://brmlab.cz/) @ Prague
-  * [Labka](https://labka.cz) @ Ostrava
-  * [V01D](http://www.v01d.sk) @ Kosice
+  * [Progressbar.sk](http://progressbar.sk) @ Bratislava (local)
+  * [Metalab.at](https://metalab.at/) @ Vienna
+  * [Base48.cz](http://base48.cz/) @ Brno
+  * [ParalelniPolis.cz](https://www.paralelnipolis.cz/en/) @ Prague
+  * [Brmlab.cz](http://brmlab.cz/) @ Prague
+  * [Labka.cz](https://labka.cz) @ Ostrava
+  * [V01D.sk](http://www.v01d.sk) @ Kosice
   * [H.A.C.K.](https://hsbp.org) @ Budapest
   * [List of Active hackerspaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces)
 
 * Fablabs
   * [Fablab.sk](http://www.fablab.sk/en/)
+  * [Fablava.sk](http://fablava.sk) (local digital manufacture network)
   * Lab - in old market hall, downtown Bratislava (Q1 2016)
 
 * Media/Art
@@ -248,9 +249,10 @@ Founder of [Progressbar](https://progressbar.sk). It all started before summer 2
 
 ### Contact
 
+* [Ask me something about HackerDome](https://www.reddit.com/r/hackerdome/) at Reddit
 * [Ask me something about HackerDome](https://github.com/yangwao/hackerdome.xyz/issues/new) at Github
 * [join IRC #hackerdome @ Freenode](irc://chat.freenode.net/hackerdome) or [use webchat](http://webchat.freenode.net/?channels=%23hackerdome)
-* Keep in touch, yangwao at freenode or try catch me ybdaba at gmail dat com
+* Keep in touch, yangwao at freenode or try catch me ybdaba plus hackerdome at gmail dat com
 
 ### Some click-baits
 
@@ -303,12 +305,26 @@ Founder of [Progressbar](https://progressbar.sk). It all started before summer 2
 
 ![](img/biomes_0.jpg)
 
-### Crazy shit in end
+### Crazy shit in the end
 
 [BuckMinster Fuller Meets Transformers](http://architizer.com/blog/buckminster-fuller-robot/)
 
-![](img/eca19124bdc0a3dfaafb95ff63abdf11.jpg)
-![](img/ac6d9656c8208ca1179203ca8b912b85.jpg)
-![](img/1259451427625907117.gif)
+![BuckMinster Fuller Meets Transformers](img/eca19124bdc0a3dfaafb95ff63abdf11.jpg)
+[BuckMinster Fuller Meets Transformers](img/ac6d9656c8208ca1179203ca8b912b85.jpg) (gif)
+[BuckMinster Fuller Meets Transformers](img/1259451427625907117.gif) (gif)
 
-[If IPFS has some troubles, here is latest revision](https://github.com/yangwao/hackerdome.xyz)
+[If IPFS has some troubles, here is latest revision of web](https://github.com/yangwao/hackerdome.xyz)
+
+### Some external photos
+
+* [Me in Bratislava, like tourist](https://www.instagram.com/p/9daBCwsDle/)
+* [My first NodeSchool Bratislava](https://www.instagram.com/p/_Nk1jFMDu3/)
+* [CCCamp2015](https://www.instagram.com/p/6b_UW9sDo8/)
+* [Dildo workshop, maybe](https://www.instagram.com/p/_zUVfQsDu8/)
+* [Hexagons with six lights](https://www.instagram.com/p/_z7Dl8sDi5/)
+
+### Music
+
+##### We love 8bit music! Hope you do too!
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/12465133&amp;color=8D12EC&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
