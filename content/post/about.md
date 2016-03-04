@@ -40,7 +40,7 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 * Full-stack kitchen (WiP)
 * Located near woods
 * Pet-friendly space
-* Shared (e)car & (e)bike (**e** part is planned)
+* Shared (e)bike, (e)car and unicycle (**e** part is planned)
 * [Near is community garden](https://www.facebook.com/projekt.zivot/photos_stream)
 
 ### Trip locations near HackerDome
@@ -150,12 +150,20 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 * Kaufland 7-22 (10min walk)
   * Pharmacy 8-20 (5min bike)
 
+####
+
+* Dataplans
+  * [O2](https://www.o2.sk/internet)
+  * [Orange](https://www.orange.sk/prevas/internet-v-mobile/nekonecny-internet/?click=menu_internetatv)
+  * There are other virtual operators who offers fine prices for dataplans
+
 ### Bratislava
 
 * [Eurotrip scene about Bratislava](https://www.youtube.com/watch?v=cqEsE-IKBI8) (everything for nickel :D)
 * [Visit Bratislava](https://www.youtube.com/watch?v=oac2zPqWGYw&list=PLMvkaYHjYzxfmANH5OLRde_6uRcrTtiBD) (from local tourist agency)
 
 ### Weather
+
 * [Climate profile from Wikipedia](https://en.wikipedia.org/wiki/Bratislava#Climate)
 * [Climate history](http://www.bratislava.climatemps.com/)
 * [Actual weather](http://www.wunderground.com/weather-forecast/S1/Bratislava.html)
