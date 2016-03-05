@@ -25,7 +25,7 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 *Now WorkInProgress, opening 2016/2017, but contact me for beta-run*
 
 ### Features
-* Fast Internet (500Mbit/30Mbit)
+* Fast Internet (500Mbit/30Mbit) (now 50/5)
   * IPFS local nodes
   * Tor relays
   * anonymous encrypted exits to the internet
@@ -43,7 +43,7 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 * Shared (e)bike, (e)car and unicycle (**e** part is planned)
 * [Near is community garden](https://www.facebook.com/projekt.zivot/photos_stream)
 
-### Trip locations near HackerDome
+## Trip locations near HackerDome
 * Local Bratislava *hidden* locations
   * [M_P_BA](http://mpba.sk/en/)
 
@@ -77,8 +77,10 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 
 ![](img/Hvezdarna_a_planetarium_Brno_016.jpg)
 
-* Urban Exploration
-  * [Near Bratislava UE spots](https://picasaweb.google.com/102795408576830141009)
+### Urban Exploration
+
+[Near Bratislava UE spots](https://picasaweb.google.com/102795408576830141009)
+
   * Razsochy (unfinished hospital from 80s) (~10mins walk)
     * https://www.youtube.com/watch?v=t_5yp0tkm-8 (Aerial)
     * https://www.youtube.com/watch?v=Kf5scmfHSvg
@@ -156,6 +158,7 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 * Dataplans
   * [O2](https://www.o2.sk/internet)
   * [Orange](https://www.orange.sk/prevas/internet-v-mobile/nekonecny-internet/?click=menu_internetatv)
+  * [Swan/4 LTE](https://www.swan.sk/domacnosti/4ginternet-v1-0/4g-internet-fix-0) (5€/100GB/mo)
   * There are other virtual operators who offers fine prices for dataplans
 
 ### Bratislava
@@ -347,6 +350,8 @@ Founder of [Progressbar](https://progressbar.sk). It all started before summer 2
 * [Hexagons with six lights](https://www.instagram.com/p/_z7Dl8sDi5/)
 
 ### Music
+
+* [Slovakia noise // experimental scene](http://kraa.sk/about/)
 
 ##### We love 8bit music! Hope you do too!
 
