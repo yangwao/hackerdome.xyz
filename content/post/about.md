@@ -149,8 +149,9 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 * McDonalds 24/7 (5min bike/2min car)
 * Kaufland 7-22 (10min walk)
   * Pharmacy 8-20 (5min bike)
+* Option to buy/sell Euros for Bitcoins/Ethereum in low volumes
 
-####
+#### Mobile Dataplans
 
 * Dataplans
   * [O2](https://www.o2.sk/internet)
@@ -223,6 +224,19 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 * Budapest, Hungary (2 hours by car/train)
 * Prague, Czech Republic (3 hours by car/train)
 
+### Airports near
+
+* Bratislava (BTS), Slovakia (1/2 w/ Uber/Liftago)
+* Vienna (VIE), Austria (3/4 hour bus ride for 5€)
+* Budapest (BUD), Hungary (2 hours train/ride)
+* Prague (PRG), Czechia (3 hours train/ride)
+
+[Book your flight now i.e from Berlin to Bratislava](http://www.skyscanner.net/transport/flights/berl/bts/) (low, for 10€)
+[Book your flight now i.e from London to Bratislava](http://www.skyscanner.net/transport/flights/lond/bts/) (low, 10-30€)
+[Book your flight now i.e from Hamburg to Vienna](http://www.skyscanner.net/transport/flights/hamb/vie/) (low, 30-60€)
+[Book your flight now i.e from Berlin to Vienna](http://www.skyscanner.net/transport/flights/berl/vie/) (40-60€)
+
+
 ### Options to stay
 
 * Micro-term
@@ -260,6 +274,7 @@ Founder of [Progressbar](https://progressbar.sk). It all started before summer 2
 * [Ask me something about HackerDome](https://www.reddit.com/r/hackerdome/) at Reddit
 * [Ask me something about HackerDome](https://github.com/yangwao/hackerdome.xyz/issues/new) at Github
 * [join IRC #hackerdome @ Freenode](irc://chat.freenode.net/hackerdome) or [use webchat](http://webchat.freenode.net/?channels=%23hackerdome)
+* [FB Subscribe](https://www.facebook.com/hackerdomexyz)
 * Keep in touch, yangwao at freenode or try catch me ybdaba plus hackerdome at gmail dat com
 
 ### Some click-baits
