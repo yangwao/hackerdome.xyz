@@ -16,7 +16,7 @@ RelativeURLs = true
   # logo = "images/phoenix_world.png"
   # googleAnalyticsUserID = "UA-64985747-4"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
-  RSSLink = "http://feedly.com/i/subscription/feed/https://syui.github.io/atom.xml"
+  RSSLink = "http://feedly.com/i/subscription/feed/https://hackerdome.xyz/atom.xml"
   githubName = "yangwao"
   twitterName = "yangwao"
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
