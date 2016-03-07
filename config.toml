@@ -7,7 +7,7 @@ RelativeURLs = true
 # canonifyurls = true
 
 [params]
-  description = "hackbase in Bratislava, Slovakia"
+  description = "hackbase in Bratislava, Slovakia, Europe"
   cover = "img/icon_11999.png"
   author = "yangwao"
   authorlocation = "Bratislava"
