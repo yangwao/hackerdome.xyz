@@ -104,6 +104,13 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 
 ![](img/devinskakobyla4.jpg)
 
+
+  * [Cavern Kamzik 6](https://www.facebook.com/kavernakamzik6/)
+    * There like dozens [bunkers in hills from WW1](http://www.bunkre.info/)
+
+![kk6](img/kk6.jpg)
+
+
 ### Local community groups
 
 * [Meetup groups in Bratislava](http://www.meetup.com/cities/sk/bratislava/)
