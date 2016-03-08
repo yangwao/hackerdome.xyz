@@ -213,6 +213,7 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
   * Cryptography
   * Distributed systems
   * Crafting (wood,..)
+  * Knitmeets or making origami? :D
   * ..?
 
 ### City Transportation
