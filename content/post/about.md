@@ -272,7 +272,7 @@ We accept payments in Bitcoin, Ethereum and also in analog money.
 
 ### Who I'm
 
-Founder of [Progressbar](https://progressbar.sk). It all started before summer 2010 :)
+Founder of [Progressbar hackerspace](https://progressbar.sk). It all started before summer 2010 :)
 
 * [Facebook Matej 'wao' Nemček](https://www.facebook.com/matej.satoshi)
 * [Twitter @yangwao](https://twitter.com/YangWao)
@@ -287,6 +287,11 @@ Founder of [Progressbar](https://progressbar.sk). It all started before summer 2
 * [join IRC #hackerdome @ Freenode](irc://chat.freenode.net/hackerdome) or [use webchat](http://webchat.freenode.net/?channels=%23hackerdome)
 * [FB Subscribe](https://www.facebook.com/hackerdomexyz)
 * Keep in touch, yangwao at freenode or try catch me ybdaba plus hackerdome at gmail dat com
+
+### See me / meet me
+
+* [You can meet me *maybe* at these *hacker* conferences](https://github.com/yangwao/hacker-conferences)
+
 
 ### Some click-baits
 
@@ -318,14 +323,29 @@ Founder of [Progressbar](https://progressbar.sk). It all started before summer 2
 * Media
   * http://www.shareable.net/blog/6-coliving-networks-reinventing-home
 
+### Concepts
+
+* [Platonic Solids](https://en.wikipedia.org/wiki/Platonic_solid)
+* [Digitalmorphogenesis](https://en.wikipedia.org/wiki/Digital_morphogenesis)
+* Material intelligence
+* [Achim Menges]( https://www.google.sk/search?q=achim+menges&espv=2&biw=1280&bih=1345&site=webhp&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiwmZf51rTLAhWElxoKHVS8A6AQ_AUIBygB)
+* [Sean Ahlquist](https://www.google.sk/search?q=Sean+Ahlquist&biw=1280&bih=1345&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjB9Yzj07TLAhWjQZoKHQNaAkUQ_AUIBygB)
+* [Free State of Fiume](https://en.wikipedia.org/wiki/Free_State_of_Fiume)
+* [Phalanstère](https://en.wikipedia.org/wiki/Phalanst%C3%A8re)
+* [Kibbutz](https://en.wikipedia.org/wiki/Kibbutz)
+* [Developing the Familistère](https://en.wikipedia.org/wiki/Jean-Baptiste_Andr%C3%A9_Godin#Developing_the_Familist.C3.A8re)
+* [Baugruppen](http://www.metropolismag.com/May-2015/Dont-Call-It-A-Commune/)
+
 ### Why Geodesic dome
 #### History
+* I heard, Buckminister concept is hyper-obsolete from 60s, but it still works, there is even modern like [hexayurt concept](http://hexayurt.com/) easier to construct
 * [Geodesic dome](https://en.wikipedia.org/wiki/Geodesic_dome)
 * [Montreal Biosphère](https://en.wikipedia.org/wiki/Montreal_Biosph%C3%A8re)
 
 #### Authors
 * [Buckminister Fuller](https://en.wikipedia.org/wiki/Buckminster_Fuller)
 * [Walther Bauersfeld](https://en.wikipedia.org/wiki/Walther_Bauersfeld)
+
 
 ![](img/geodesic-dome-cardboard-fulldome.gif)
 ![](img/Screen-Shot-2015-02-11-at-9.31.43-PM.gif)
