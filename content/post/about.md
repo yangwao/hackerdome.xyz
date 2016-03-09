@@ -3,7 +3,7 @@ author = "yangwao"
 comments = true
 date = "2016-02-24T01:18:32+01:00"
 draft = false
-# image = "img/icon_11999.png"
+image = "images/screen.png"
 menu = ""
 share = true
 slug = "about-hackerdome"
@@ -18,14 +18,12 @@ Hackerdome will be one of very first **true** [hackerhouse residency ](https://w
 
 Great shelter with friendly-apes and secure food supply for your great ideas [located in Central Europe, Bratislava, Slovakia](https://www.google.com/maps?q=Central+Europe,+Bratislava,+Slovakia)
 
-Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
-
-* also friends at [Base48](http://base48.cz) & [ParalelniPolis](https://www.paralelnipolis.cz/en/)
+Affiliated with local hackerspace [Progressbar](https://progressbar.sk) and also with friends at [Base48](http://base48.cz) & [ParalelniPolis](https://www.paralelnipolis.cz/en/)
 
 *Now WorkInProgress, opening 2016/2017, but contact me for beta-run*
 
 ### Features
-* Fast Internet (500Mbit/30Mbit) (now 50/5)
+* Fast Internet (500/30 Mbit) (now 50/5)
   * IPFS local nodes
   * Tor relays
   * anonymous encrypted exits to the internet
@@ -34,17 +32,17 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
   * Club-Mate (20mg/100ml)
   * Flora-Power (18mg/100ml)
   * Nootropics (??? :D)
-  * [Synectar.sk](http://synectar.sk/en/) (local soylent)
   * Dark chocolate ~85%+ (source of [Sirtuin](https://en.wikipedia.org/wiki/Sirtuin))
+  * [Synectar.sk](http://synectar.sk/en/) (local soylent)
 
 * Full-stack kitchen (WiP)
-* Located near woods
+* [Located near woods](https://www.google.com/maps/place/Lama%C4%8D,+Slovakia/@48.1910488,17.088671,4497m/data=!3m1!1e3!4m2!3m1!1s0x476c8c8d6f6f6609:0xed09be2c13bfe9b9!6m1!1e1) and [Bratislava forest park](https://en.wikipedia.org/wiki/Bratislavsk%C3%BD_lesn%C3%BD_park)
 * Pet-friendly space
 * Shared (e)bike, (e)car and unicycle (**e** part is planned)
 * [Near is community garden](https://www.facebook.com/projekt.zivot/photos_stream)
 
 ## Trip locations near HackerDome
-* Local Bratislava *hidden* locations
+* Local Bratislava *hidden* *hipster* locations
   * [M_P_BA](http://mpba.sk/en/)
 
 * Sky walk (Stezka v oblacich) (~160mins car)
@@ -106,7 +104,7 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 
 
   * [Cavern Kamzik 6](https://www.facebook.com/kavernakamzik6/)
-    * There like dozens [bunkers in hills from WW1](http://www.bunkre.info/)
+    * There like dozens [bunkers in local hills from WW1](http://www.bunkre.info/)
 
 ![kk6](img/kk6.jpg)
 
@@ -121,6 +119,7 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
   * [Node.js meetup](http://www.meetup.com/nodeba/events/228479101/)
   * [IPFS meetup](http://www.meetup.com/Bratislava-IPFS-Meetup/)
   * Techwalks [in near forest](https://www.openstreetmap.org/#map=15/48.1921/17.0843) (let's form group for walks on evening-midnight for 2-3 hours into deep woods)
+  * [map of Slovak start-up ecosystem](http://withlove.sk/)
 
 ![](img/hrubydrienovec.png)
 
@@ -143,7 +142,7 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 * Fablabs
   * [Fablab.sk](http://www.fablab.sk/en/)
   * [Fablava.sk](http://fablava.sk) (local digital manufacture network)
-  * Lab - in old market hall, downtown Bratislava (Q1 2016)
+  * LabCafe - in old market hall, downtown Bratislava (Q1 2016)
 
 * Media/Art
   * [A4 – SPACE FOR CONTEMPORARY CULTURE](http://www.a4.sk/)
@@ -170,6 +169,7 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 
 ### Bratislava
 
+* [General knowledge about Bratislava](https://en.wikipedia.org/wiki/Bratislava)
 * [Eurotrip scene about Bratislava](https://www.youtube.com/watch?v=cqEsE-IKBI8) (everything for nickel :D)
 * [Visit Bratislava](https://www.youtube.com/watch?v=oac2zPqWGYw&list=PLMvkaYHjYzxfmANH5OLRde_6uRcrTtiBD) (from local tourist agency)
 
@@ -242,10 +242,10 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk)
 * Budapest (BUD), Hungary (2 hours train/ride)
 * Prague (PRG), Czechia (3 hours train/ride)
 
-[Book your flight now i.e from Berlin to Bratislava](http://www.skyscanner.net/transport/flights/berl/bts/) (low, for 10€)
-[Book your flight now i.e from London to Bratislava](http://www.skyscanner.net/transport/flights/lond/bts/) (low, 10-30€)
-[Book your flight now i.e from Hamburg to Vienna](http://www.skyscanner.net/transport/flights/hamb/vie/) (low, 30-60€)
-[Book your flight now i.e from Berlin to Vienna](http://www.skyscanner.net/transport/flights/berl/vie/) (40-60€)
+> * [Book your flight now i.e from Berlin to Bratislava](http://www.skyscanner.net/transport/flights/berl/bts/) (low, for 10€)
+> * [Book your flight now i.e from London to Bratislava](http://www.skyscanner.net/transport/flights/lond/bts/) (low, 10-30€)
+> * [Book your flight now i.e from Hamburg to Vienna](http://www.skyscanner.net/transport/flights/hamb/vie/) (low, 30-60€)
+> * [Book your flight now i.e from Berlin to Vienna](http://www.skyscanner.net/transport/flights/berl/vie/) (40-60€)
 
 
 ### Options to stay
@@ -357,7 +357,7 @@ Founder of [Progressbar](https://progressbar.sk). It all started before summer 2
 * [Dildo workshop, maybe](https://www.instagram.com/p/_zUVfQsDu8/)
 * [Hexagons with six lights](https://www.instagram.com/p/_z7Dl8sDi5/)
 
-### Music
+### (local) Music
 
 * [Slovakia noise // experimental scene](http://kraa.sk/about/)
 
