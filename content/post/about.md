@@ -16,11 +16,11 @@ title = "What is HackerDome?"
 
 Hackerdome will be one of very first **true** [hackerhouse residency ](https://wiki.hackerspaces.org/Hackbase) [(coliving)](https://en.wikipedia.org/wiki/Coliving)
 
-Great shelter with friendly-apes and secure food supply for your great ideas [located in Central Europe, Bratislava, Slovakia](https://www.google.com/maps?q=Central+Europe,+Bratislava,+Slovakia)
+Great shelter with friendly-apes and secure food supply for your great ideas [located in Central Europe, Slovakia, Bratislava](https://www.google.com/maps?q=Central+Europe,+Bratislava,+Slovakia)
 
-Affiliated with local hackerspace [Progressbar](https://progressbar.sk) and also with friends at [Base48](http://base48.cz) & [ParalelniPolis](https://www.paralelnipolis.cz/en/)
+Literally, it would be house with dome on top of it.
 
-*Now WorkInProgress, opening 2016/2017, but contact me for beta-run*
+ **HackerDome is now WorkInProgress**, *opening 2016/2017*, but you can *contact me for beta-run*
 
 ### Features
 * Fast Internet (500/30 Mbit) (now 50/5)
@@ -118,8 +118,8 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk) and also
   * [Nodeschool Bratislava](https://github.com/nodeschool/bratislava)
   * [Node.js meetup](http://www.meetup.com/nodeba/events/228479101/)
   * [IPFS meetup](http://www.meetup.com/Bratislava-IPFS-Meetup/)
-  * Techwalks [in near forest](https://www.openstreetmap.org/#map=15/48.1921/17.0843) (let's form group for walks on evening-midnight for 2-3 hours into deep woods)
   * [map of Slovak start-up ecosystem](http://withlove.sk/)
+  * Techwalks [in near forest](https://www.openstreetmap.org/#map=15/48.1921/17.0843) (let's form group for walks on evening-midnight for 2-3 hours into deep woods)
 
 ![](img/hrubydrienovec.png)
 
@@ -181,13 +181,6 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk) and also
 
 ### Equipment
 
-* Infrastructure
-  * Mikrotik RB951G-2HnD
-  * [Ubiquiti AP-AC Pro Gen2 (2,4 GHz: 3×3; 5 GHz: 3×3)](https://www.ubnt.com/unifi/unifi-ap-ac-pro/)
-  * Waiting for [Turris Omnia](https://omnia.turris.cz/en/)
-  * Hardkernel
-    * [Odroid X2 (MarkOne)](http://www.hardkernel.com/main/products/prdt_info.php?g_code=G135235611947)
-    * C1+ & C2 (WiP)
 * Standing desk [Skarsta](http://www.ikea.com/us/en/catalog/products/S29084966/)
 * Media
   * Projector
@@ -197,6 +190,13 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk) and also
 * Desks
 * Lot of pallets (let's build something?!)
 * Great backyard for ideas with fireplace
+* Infrastructure
+  * Mikrotik RB951G-2HnD
+  * [Ubiquiti AP-AC Pro Gen2 (2,4 GHz: 3×3; 5 GHz: 3×3)](https://www.ubnt.com/unifi/unifi-ap-ac-pro/)
+  * Waiting for [Turris Omnia](https://omnia.turris.cz/en/)
+  * Hardkernel
+    * [Odroid X2 (MarkOne)](http://www.hardkernel.com/main/products/prdt_info.php?g_code=G135235611947)
+    * C1+ & C2 (WiP)
 * Floorplan
   * 6 double/two bed
   * 2 living-rooms
@@ -247,6 +247,16 @@ Affiliated with local hackerspace [Progressbar](https://progressbar.sk) and also
 > * [Book your flight now i.e from Hamburg to Vienna](http://www.skyscanner.net/transport/flights/hamb/vie/) (low, 30-60€)
 > * [Book your flight now i.e from Berlin to Vienna](http://www.skyscanner.net/transport/flights/berl/vie/) (40-60€)
 
+### *(planned)* Hyperloops near Bratislava
+
+* Bratislava to Vienna in eight minutes (Hyperloop)  
+* Bratislava to Budapest in ten minutes (Hyperloop)
+
+[1](http://www.theverge.com/2016/3/10/11191516/hyperloop-transportation-technologies-slovakia-central-europe-agreement)
+[2](http://www.engadget.com/2016/03/10/hyperloop-transportation-technologies-slovakia-contract/)
+[3](http://electrek.co/2016/03/10/htt-slovakian-gov-hyperloop-route/)
+[4](http://futurezone.at/science/hyperloop-plant-wien-bratislava-mit-8-minuten-fahrzeit/186.072.377)
+[5](http://www.forbes.com/sites/federicoguerrini/2016/03/10/hyperloops-first-european-route-to-be-built-on-the-bratislava-budapest-route/#5127e1004b30)
 
 ### Options to stay
 
@@ -346,6 +356,7 @@ Founder of [Progressbar hackerspace](https://progressbar.sk). It all started bef
 * [Buckminister Fuller](https://en.wikipedia.org/wiki/Buckminster_Fuller)
 * [Walther Bauersfeld](https://en.wikipedia.org/wiki/Walther_Bauersfeld)
 
+##### How can dome look like?
 
 ![](img/geodesic-dome-cardboard-fulldome.gif)
 ![](img/Screen-Shot-2015-02-11-at-9.31.43-PM.gif)
