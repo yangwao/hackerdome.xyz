@@ -26,7 +26,7 @@
 
 &lt;p&gt;Literally, it would be house with dome on top of it.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;HackerDome is now WorkInProgress&lt;/strong&gt;, &lt;em&gt;opening &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2017&lt;/sub&gt;&lt;/em&gt;, but you can &lt;em&gt;contact me for beta-run&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HackerDome is now WorkInProgress&lt;/strong&gt;, &lt;em&gt;opening &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2017&lt;/sub&gt;&lt;/em&gt;, but you can &lt;em&gt;contact me for beta-run&lt;/em&gt;. &lt;em&gt;Timetable is on the end of page&lt;/em&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;features:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Features&lt;/h3&gt;
 
@@ -34,8 +34,8 @@
 &lt;li&gt;&lt;p&gt;Fast Internet (&lt;sup&gt;500&lt;/sup&gt;&amp;frasl;&lt;sub&gt;30&lt;/sub&gt; Mbit) (now &lt;sup&gt;50&lt;/sup&gt;&amp;frasl;&lt;sub&gt;5&lt;/sub&gt;)&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;IPFS local nodes&lt;/li&gt;
-&lt;li&gt;Tor relays&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ipfs.io/&#34;&gt;IPFS&lt;/a&gt; local nodes&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.torproject.org/``&#34;&gt;Tor&lt;/a&gt; relays&lt;/li&gt;
 &lt;li&gt;anonymous encrypted exits to the internet&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
@@ -283,16 +283,6 @@ System was developed by company Lavočkin &amp;amp; Gruškin OKB and manufactere
 &lt;h3 id=&#34;equipment:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Equipment&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Infrastructure
-
-&lt;ul&gt;
-&lt;li&gt;Mikrotik RB951G-2HnD&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ubnt.com/unifi/unifi-ap-ac-pro/&#34;&gt;Ubiquiti AP-AC Pro Gen2 (2,4 GHz: 3×3; 5 GHz: 3×3)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Waiting for &lt;a href=&#34;https://omnia.turris.cz/en/&#34;&gt;Turris Omnia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Hardkernel&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.hardkernel.com/main/products/prdt_info.php?g_code=G135235611947&#34;&gt;Odroid X2 (MarkOne)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;C1+ &amp;amp; C2 (WiP)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Standing desk &lt;a href=&#34;http://www.ikea.com/us/en/catalog/products/S29084966/&#34;&gt;Skarsta&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Media
 
@@ -305,6 +295,16 @@ System was developed by company Lavočkin &amp;amp; Gruškin OKB and manufactere
 &lt;li&gt;Desks&lt;/li&gt;
 &lt;li&gt;Lot of pallets (let&amp;rsquo;s build something?!)&lt;/li&gt;
 &lt;li&gt;Great backyard for ideas with fireplace&lt;/li&gt;
+&lt;li&gt;Infrastructure
+
+&lt;ul&gt;
+&lt;li&gt;Mikrotik RB951G-2HnD&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ubnt.com/unifi/unifi-ap-ac-pro/&#34;&gt;Ubiquiti AP-AC Pro Gen2 (2,4 GHz: 3×3; 5 GHz: 3×3)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Waiting for &lt;a href=&#34;https://omnia.turris.cz/en/&#34;&gt;Turris Omnia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Hardkernel&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.hardkernel.com/main/products/prdt_info.php?g_code=G135235611947&#34;&gt;Odroid X2 (MarkOne)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;C1+ &amp;amp; C2 (WiP)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Floorplan
 
 &lt;ul&gt;
@@ -572,6 +572,20 @@ System was developed by company Lavočkin &amp;amp; Gruškin OKB and manufactere
 &lt;h5 id=&#34;we-love-8bit-music-hope-you-do-too:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;We love 8bit music! Hope you do too!&lt;/h5&gt;
 
 &lt;iframe width=&#34;100%&#34; height=&#34;450&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/12465133&amp;amp;color=8D12EC&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&#34;timetable-for-hackerdome:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Timetable for HackerDome&lt;/h3&gt;
+
+&lt;p&gt;So people recently asking me, if it&amp;rsquo;s &lt;strong&gt;WiP&lt;/strong&gt;, what are plans?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Spring/2016 Replace/Upgrade heat distribution system&lt;/li&gt;
+&lt;li&gt;Q2/2016 Upgrade bathroom1&lt;/li&gt;
+&lt;li&gt;Q3/2016 Switch kitchen with bedroom&lt;/li&gt;
+&lt;li&gt;Q4/2016 Upgrade windows on first floor&lt;/li&gt;
+&lt;li&gt;Summer/2016 Need fix insulation of house. Now it costs like 150€ monthly for gas. Pretty high and even not going on full-throttle.&lt;/li&gt;
+&lt;li&gt;Autumn/2016 Roof. This is part where geodesic dome come in play.&lt;/li&gt;
+&lt;li&gt;What comes next, at least, sponsors are welcome, hackerdome is just small step ;)&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

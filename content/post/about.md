@@ -20,12 +20,12 @@ Great shelter with friendly-apes and secure food supply for your great ideas [lo
 
 Literally, it would be house with dome on top of it.
 
- **HackerDome is now WorkInProgress**, *opening 2016/2017*, but you can *contact me for beta-run*
+ **HackerDome is now WorkInProgress**, *opening 2016/2017*, but you can *contact me for beta-run*. *Timetable is on the end of page*
 
 ### Features
 * Fast Internet (500/30 Mbit) (now 50/5)
-  * IPFS local nodes
-  * Tor relays
+  * [IPFS](https://ipfs.io/) local nodes
+  * [Tor](https://www.torproject.org/``) relays
   * anonymous encrypted exits to the internet
 
 * Free
@@ -395,3 +395,15 @@ Founder of [Progressbar hackerspace](https://progressbar.sk). It all started bef
 ##### We love 8bit music! Hope you do too!
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/12465133&amp;color=8D12EC&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+### Timetable for HackerDome
+
+So people recently asking me, if it's **WiP**, what are plans?
+
+* Spring/2016 Replace/Upgrade heat distribution system
+* Q2/2016 Upgrade bathroom1
+* Q3/2016 Switch kitchen with bedroom
+* Q4/2016 Upgrade windows on first floor
+* Summer/2016 Need fix insulation of house. Now it costs like 150€ monthly for gas. Pretty high and even not going on full-throttle.
+* Autumn/2016 Roof. This is part where geodesic dome come in play.
+* What comes next, at least, sponsors are welcome, hackerdome is just small step ;)
