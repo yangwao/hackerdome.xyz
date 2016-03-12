@@ -31,7 +31,7 @@ Literally, it would be house with dome on top of it.
 * Drinks & Food
   * Club-Mate (20mg/100ml)
   * Flora-Power (18mg/100ml)
-  * Nootropics (??? :D)
+  * Nootropics
   * Dark chocolate ~85%+ (source of [Sirtuin](https://en.wikipedia.org/wiki/Sirtuin))
   * [Synectar.sk](http://synectar.sk/en/) (local soylent)
 
@@ -272,11 +272,12 @@ Literally, it would be house with dome on top of it.
 
 ### Options to stay
 
-I need consider if micro-term are viable, maybe only for local folks
->* Micro-term
->  * one night crash
->  * staying for 1-3 days, like hackercouch
->  * just support us buying Club-mate/Flora-Power at place, you are welcome!
+I need consider if micro-term is viable (time/effort/comms/giveback), maybe only for local folks
+
+> Micro-term
+>   one night crash
+>   staying for 1-3 days, like hackercouch
+>   just support us buying Club-mate/Flora-Power at place, you are welcome!
 
 * Mid-term
   * Plan to stay for 1-12 weeks, great! :)
@@ -321,17 +322,20 @@ Founder of [Progressbar hackerspace](https://progressbar.sk). It all started bef
 * Hacker-like link-toolkit
   * [Mobile hackbase Apollo NG](https://apollo.open-resource.org/)
   * [Hackercouch](http://hackercouch.com/)
+
   * [Hackerspaces.org](https://wiki.hackerspaces.org/) (wiki)
-    * [Residencies](https://wiki.hackerspaces.org/Residencies)
-    * [Exchanges](https://wiki.hackerspaces.org/Exchanges)
-    * [Hackbase](https://wiki.hackerspaces.org/Hackbase)
+      * [Residencies](https://wiki.hackerspaces.org/Residencies)
+      * [Exchanges](https://wiki.hackerspaces.org/Exchanges)
+      * [Hackbase](https://wiki.hackerspaces.org/Hackbase)
+
   * [Infinity](https://wiki.hackerspaces.org/infinity) (hackbase, IN)
       * [Home](http://hillhacks.in/index)
       * [Unconference](http://hillhacks.in/unconference)
+
   * [Totalism.org](http://totalism.org)
-    * [Calendar](http://totalism.org/calendar)
-    * [Alike](http://totalism.org/alike)
-    * [Maps](http://totalism.org/maps)
+      * [Calendar](http://totalism.org/calendar)
+      * [Alike](http://totalism.org/alike)
+      * [Maps](http://totalism.org/maps)
   * https://wiki.techinc.nl/index.php/User:Becha/Lika#2016
   * http://unmonastery.org/
 
@@ -362,6 +366,7 @@ Founder of [Progressbar hackerspace](https://progressbar.sk). It all started bef
 #### Aim of HackerDome
 
   * How to turn technology to re:grow nature (i.e. build Beehives & Hydroponics)
+  * ..
 
 ### Why Geodesic dome
 #### History
@@ -416,9 +421,10 @@ Founder of [Progressbar hackerspace](https://progressbar.sk). It all started bef
 ### My fav opt-out quotes from discussions about hackerdome
 
 > 14:33 < phryk> I'd also like to be able to hydroponically grow coconut palms. I think that's an important step for sustainability, because coconut fibres can be used as hydroponic grow medium
+
 > 14:33 < phryk> also because mhhhh, coconut milk
 
-### Timetable for HackerDome
+### Timetable for HackerDome WiP
 
 So people recently asking me, if it's **WiP**, what are plans?
 
