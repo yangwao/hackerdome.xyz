@@ -198,7 +198,7 @@ Literally, it would be house with dome on top of it.
     * [Odroid X2 (MarkOne)](http://www.hardkernel.com/main/products/prdt_info.php?g_code=G135235611947)
     * C1+ & C2 (WiP)
 * Floorplan
-  * 6 double/two bed
+  * 6 double/two bed rooms
   * 2 living-rooms
   * 2 bathrooms
   * 2 basement rooms
@@ -214,12 +214,19 @@ Literally, it would be house with dome on top of it.
   * Distributed systems
   * Crafting (wood,..)
   * Knitmeets or making origami? :D
+  * [Hydroponic](https://www.google.sk/?gfe_rd=cr&ei=ShnkVuqoL-eP8QeB3oioDw#q=hydroponic) makers
+  * [Building BeeHives](https://en.wikipedia.org/wiki/Beehive)
   * ..?
 
 #### We prefer
 
-  * non-smokers
+  * non-smokers (420 maybe)
   * highly ethical hackers
+  * people taking care about themselfs in advance, we have some empathy, but we are not medics
+
+### Rules
+
+  * I think hackbase/hackerspace society doesn't need rules, at least if members don't bother anyone with their actions
 
 ### City Transportation
 
@@ -265,10 +272,11 @@ Literally, it would be house with dome on top of it.
 
 ### Options to stay
 
-* Micro-term
-  * one night crash
-  * staying for 1-3 days, like hackercouch
-  * just support us buying Club-mate/Flora-Power at place, you are welcome!
+I need consider if micro-term are viable, maybe only for local folks
+>* Micro-term
+>  * one night crash
+>  * staying for 1-3 days, like hackercouch
+>  * just support us buying Club-mate/Flora-Power at place, you are welcome!
 
 * Mid-term
   * Plan to stay for 1-12 weeks, great! :)
@@ -351,6 +359,10 @@ Founder of [Progressbar hackerspace](https://progressbar.sk). It all started bef
 * [Developing the Familistère](https://en.wikipedia.org/wiki/Jean-Baptiste_Andr%C3%A9_Godin#Developing_the_Familist.C3.A8re)
 * [Baugruppen](http://www.metropolismag.com/May-2015/Dont-Call-It-A-Commune/)
 
+#### Aim of HackerDome
+
+  * How to turn technology to re:grow nature (i.e. build Beehives & Hydroponics)
+
 ### Why Geodesic dome
 #### History
 * I heard, Buckminister concept is hyper-obsolete from 60s, but it still works, there is even modern like [hexayurt concept](http://hexayurt.com/) easier to construct
@@ -400,6 +412,11 @@ Founder of [Progressbar hackerspace](https://progressbar.sk). It all started bef
 ##### We love 8bit music! Hope you do too!
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/12465133&amp;color=8D12EC&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+### My fav opt-out quotes from discussions about hackerdome
+
+> 14:33 < phryk> I'd also like to be able to hydroponically grow coconut palms. I think that's an important step for sustainability, because coconut fibres can be used as hydroponic grow medium
+> 14:33 < phryk> also because mhhhh, coconut milk
 
 ### Timetable for HackerDome
 
