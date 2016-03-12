@@ -28,7 +28,7 @@ Literally, it would be house with dome on top of it.
   * [Tor](https://www.torproject.org/``) relays
   * anonymous encrypted exits to the internet
 
-* Free
+* Drinks & Food
   * Club-Mate (20mg/100ml)
   * Flora-Power (18mg/100ml)
   * Nootropics (??? :D)
