@@ -20,7 +20,7 @@ Great shelter with friendly-apes and secure food supply for your great ideas [lo
 
 Literally, it would be house with dome on top of it.
 
- **HackerDome is now WorkInProgress**, *opening 2016/2017*, but you can *contact me for beta-run*. *Timetable is on the end of page*
+ **HackerDome is now WorkInProgress**, *opening 2016/2017*, *Timetable is on the end of page*, *Help is very welcome*
 
 ### Features
 * Fast Internet (500/30 Mbit) (now 50/5)
@@ -215,6 +215,11 @@ Literally, it would be house with dome on top of it.
   * Crafting (wood,..)
   * Knitmeets or making origami? :D
   * ..?
+
+#### We prefer
+
+  * non-smokers
+  * highly ethical hackers
 
 ### City Transportation
 
