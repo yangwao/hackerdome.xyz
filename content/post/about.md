@@ -142,7 +142,7 @@ Literally, it would be house with dome on top of it.
 * Fablabs
   * [Fablab.sk](http://www.fablab.sk/en/)
   * [Fablava.sk](http://fablava.sk) (local digital manufacture network)
-  * LabCafe - in old market hall, downtown Bratislava (Q1 2016)
+  * [Lab.Cafe](http://lab.cafe/) - in old market hall, downtown Bratislava (Q1 2016)
 
 * Media/Art
   * [A4 – SPACE FOR CONTEMPORARY CULTURE](http://www.a4.sk/)
@@ -190,6 +190,7 @@ Literally, it would be house with dome on top of it.
 * Desks
 * Lot of pallets (let's build something?!)
 * Great backyard for ideas with fireplace
+* Garage with workbench
 * Infrastructure
   * Mikrotik RB951G-2HnD
   * [Ubiquiti AP-AC Pro Gen2 (2,4 GHz: 3×3; 5 GHz: 3×3)](https://www.ubnt.com/unifi/unifi-ap-ac-pro/)
