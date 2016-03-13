@@ -224,6 +224,7 @@ Literally, it would be house with dome on top of it.
   * non-smokers (420 maybe)
   * highly ethical hackers
   * people taking care about themselfs in advance, we have some empathy, but we are not medics
+  * visitors have installed at least Signal/Telegram/Threema
 
 ### Rules
 
