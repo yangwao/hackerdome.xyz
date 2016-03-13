@@ -312,7 +312,8 @@ Founder of [Progressbar hackerspace](https://progressbar.sk). It all started bef
 * [Ask me something about HackerDome](https://github.com/yangwao/hackerdome.xyz/issues/new) at Github
 * [join IRC #hackerdome @ Freenode](irc://chat.freenode.net/hackerdome) or [use webchat](http://webchat.freenode.net/?channels=%23hackerdome)
 * [FB Subscribe](https://www.facebook.com/hackerdomexyz)
-* Keep in touch, yangwao at freenode or try catch me ybdaba plus hackerdome at gmail dat com
+* IRC yangwao at freenode
+* try catch me ybdaba plus hackerdome at gmail dat com
 
 ### See me / meet me
 
