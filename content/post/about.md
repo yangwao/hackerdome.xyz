@@ -16,6 +16,11 @@ title = "What is HackerDome?"
 
 Hackerdome will be one of very first **true** [hackerhouse residency ](https://wiki.hackerspaces.org/Hackbase) [(coliving)](https://en.wikipedia.org/wiki/Coliving)
 
+bbla bla :beer: bla bla :smile: {{ "I :heart: Hugo" | emojify }}
+`{{ "I :heart: Hugo" | emojify }}`
+{{ "cat" | pluralize }}
+{{ replace "Batman and Robin" "Robin" "Catwoman" }}
+
 Great shelter with friendly-apes and secure food supply for your great ideas [located in Central Europe, Slovakia, Bratislava](https://www.google.com/maps?q=Central+Europe,+Bratislava,+Slovakia)
 
 Literally, it would be house with dome on top of it.
@@ -261,7 +266,7 @@ Literally, it would be house with dome on top of it.
 > * [Book your flight now i.e from Hamburg to Vienna](http://www.skyscanner.net/transport/flights/hamb/vie/) (low, 30-60€)
 > * [Book your flight now i.e from Berlin to Vienna](http://www.skyscanner.net/transport/flights/berl/vie/) (40-60€)
 
-### *(planned)* Hyperloops near Bratislava
+### *(planned on 2020)* Hyperloops near Bratislava
 
 * Bratislava to Vienna in eight minutes (Hyperloop)  
 * Bratislava to Budapest in ten minutes (Hyperloop)
@@ -271,6 +276,7 @@ Literally, it would be house with dome on top of it.
 [3](http://electrek.co/2016/03/10/htt-slovakian-gov-hyperloop-route/)
 [4](http://futurezone.at/science/hyperloop-plant-wien-bratislava-mit-8-minuten-fahrzeit/186.072.377)
 [5](http://www.forbes.com/sites/federicoguerrini/2016/03/10/hyperloops-first-european-route-to-be-built-on-the-bratislava-budapest-route/#5127e1004b30)
+[6](http://www.startitup.sk/hyperloop-slovensku-potvrdene/)
 
 ### Options to stay
 
