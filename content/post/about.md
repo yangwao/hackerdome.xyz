@@ -17,9 +17,9 @@ title = "What is HackerDome?"
 Hackerdome will be one of very first **true** [hackerhouse residency ](https://wiki.hackerspaces.org/Hackbase) [(coliving)](https://en.wikipedia.org/wiki/Coliving)
 
 bbla bla :beer: bla bla :smile: {{ "I :heart: Hugo" | emojify }}
-`{{ "I :heart: Hugo" | emojify }}`
-{{ "cat" | pluralize }}
-{{ replace "Batman and Robin" "Robin" "Catwoman" }}
+
+:beer:
+
 
 Great shelter with friendly-apes and secure food supply for your great ideas [located in Central Europe, Slovakia, Bratislava](https://www.google.com/maps?q=Central+Europe,+Bratislava,+Slovakia)
 
@@ -154,7 +154,7 @@ Literally, it would be house with dome on top of it.
   * [FUGA](https://www.facebook.com/fuga.ba/)
   * [Cvernovka](http://www.cvernovka.com/)
 
-### Goodies
+### Life-support
 
 * Tesco 6-24 (5min bike)
   * Pharmacy 8-20 (5min bike)
@@ -162,6 +162,7 @@ Literally, it would be house with dome on top of it.
 * McDonalds 24/7 (5min bike/2min car)
 * Kaufland 7-22 (10min walk)
   * Pharmacy 8-20 (5min bike)
+* Veterinary clinic [Bennett](http://www.bennett.sk/) (8min walk)
 * Option to buy/sell Euros for Bitcoins/Ethereum in low volumes
 
 #### Mobile Dataplans
