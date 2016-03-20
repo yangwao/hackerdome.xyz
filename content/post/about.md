@@ -140,7 +140,7 @@ Literally, it would be house with dome on top of it.
   * [ParalelniPolis.cz](https://www.paralelnipolis.cz/en/) @ Prague
   * [Brmlab.cz](http://brmlab.cz/) @ Prague
   * [Labka.cz](https://labka.cz) @ Ostrava
-  * [V01D.sk](http://www.v01d.sk) @ Kosice
+  * [V01D.sk](http://www.v01d.sk) @ Košice
   * [H.A.C.K.](https://hsbp.org) @ Budapest
   * [List of Active hackerspaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces)
 
