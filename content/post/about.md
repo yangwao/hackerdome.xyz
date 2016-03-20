@@ -300,6 +300,8 @@ I need consider if micro-term is viable (time/effort/comms/giveback), maybe only
 
 We accept payments in Bitcoin, Ethereum and also in analog money.
 
+> in future is plan to decide price for accomodation by auction
+
 ![Bitcoin Accepted here](img/Bitcoin_Accepted_Here-800px.png)
 ![Ethereum Accepted here](img/ETHEREUM-LOGO_LANDSCAPE_Black-800px.png)
 
