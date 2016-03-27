@@ -144,6 +144,11 @@ Literally, it would be house with dome on top of it.
   * [H.A.C.K.](https://hsbp.org) @ Budapest
   * [List of Active hackerspaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces)
 
+* Annually held (summer) hackercamps near radius 200km
+  * [Stadtflucht](https://metalab.at/wiki/Stadtflucht) by Metalab
+  * [Camp++](https://camp.hsbp.org/) by H.A.C.K
+  * [Ctjb.net](https://ctjb.net) by Czechoslovak hackerspaces
+
 * Fablabs
   * [Fablab.sk](http://www.fablab.sk/en/)
   * [Fablava.sk](http://fablava.sk) (local digital manufacture network)
