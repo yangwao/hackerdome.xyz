@@ -355,6 +355,7 @@ Founder of [Progressbar hackerspace](https://progressbar.sk). It all started bef
       * [Maps](http://totalism.org/maps)
   * https://wiki.techinc.nl/index.php/User:Becha/Lika#2016
   * http://unmonastery.org/
+  * [Beehive4.2](https://www.youtube.com/watch?v=oTZBoFOCzV4) ~ concept
 
 * (Digital)Nomad-like
   * [Techsquat](http://techsquat.com/) (in Czech Republic Brno & Prague)
